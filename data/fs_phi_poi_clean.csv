@@ -1,4 +1,4 @@
-,station_name,place_name,latitude,longitude,address,distance_m,category
+,station_name,poi_name,latitude,longitude,address,distance_m,category
 2,Ridge & Heritage,Thunder Mug Cafe,40.00941146209319,-75.19468934325535,"4233 Ridge Ave, Philadelphia, PA 19129",216,Coffee Shop
 3,Ridge & Heritage,Shan Chuan,40.009165706661726,-75.19411377568966,"4211 Ridge Ave (Midvale Ave.), Philadelphia, PA 19129",272,Chinese Restaurant
 4,Ridge & Heritage,LeBus East Falls,40.00886168466631,-75.1936636134526,"4201 Ridge Ave (Indian Queen Lane), Philadelphia, PA 19129",321,New American Restaurant

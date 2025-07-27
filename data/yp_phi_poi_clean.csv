@@ -1,0 +1,11 @@
+,station_name,distance_to,business_id,name,price,rating,review_count,address,category
+3,Main & Shurs,69.04129708265654,ZGH8MzJa7Q7iIpmtzBAJAQ,Manayunk Brewery,$$,3.4,811,"4120 Main St, Philadelphia, PA 19127","New American, Breweries, American"
+39,Girard & Palmer,77.99388938843697,LO5yBY9uoowtq7FsaKPJXA,Kraftwork,$$,4.1,590,"541 E Girard Ave, Philadelphia, PA 19125","Gastropubs, New American, Breakfast & Brunch"
+349,5th & Spring Garden,83.60145823938386,IvAa7PvfOYl0xRML5W3ebg,Yards Brewing Company,$$,4.4,1048,"500 Spring Garden St, Philadelphia, PA 19123","Breweries, Venues & Event Spaces, New American"
+279,21st & Washington,91.30729257760034,Cmfs_i-FtaR6O1C07OEcOg,Dock Street Brewery South,$$,3.7,134,"2118 Washington Ave, Philadelphia, PA 19146","Venues & Event Spaces, Brewpubs"
+257,"Welcome Park, NPS",146.95169553388226,OHzX-ZD9qyoeoxR8Z0dlIA,Khyber Pass Pub,$$,4.2,942,"56 S 2nd St, Philadelphia, PA 19106","Gastropubs, Pubs, American"
+246,Broad & Chestnut,169.63356685868322,cOXc8c85Ms6dMEAJazLXHQ,McGillin's Olde Ale House,$$,3.8,1165,"1310 Drury St, Philadelphia, PA 19107","Irish Pub, Venues & Event Spaces"
+418,17th & Locust,182.72040118199646,OdIBX09glfXNVSyd0RnIeg,Monk's Cafe,$$,4.0,2432,"264 S 16th St, Philadelphia, PA 19102","Pubs, Belgian"
+221,17th & Green,307.4904712120766,Mwc3n5Psw9wRaQ22vZWDYQ,Bar Hygge,$$,4.4,525,"1720 Fairmount Ave, Philadelphia, PA 19130","Comfort Food, Breakfast & Brunch, Brewpubs"
+74,"Berks Station, MFL",346.9155770892082,BPBTCvmUfRnEH6yyABzOzA,Evil Genius Beer,$$,4.1,317,"1727 N Front St, Philadelphia, PA 19122","Breweries, Beer Gardens"
+163,Broad & Passyunk ,353.27242387925895,vq73W-SHrwBgXzQ__0yV2w,Second District Brewing,$$,4.1,126,"1939 S Bancroft St, Philadelphia, PA 19145","Breweries, Beer Bar, American"

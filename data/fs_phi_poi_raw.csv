@@ -1,4 +1,4 @@
-,station_name,place_name,latitude,longitude,address,distance_m,category
+,station_name,poi_name,latitude,longitude,address,distance_m,category
 0,Ridge & Heritage,Schuykill River Trail,40.008747900056235,-75.19521391803448,"Philadelphia, PA 19127",223,Hiking Trail
 1,Ridge & Heritage,Dunkin',40.0094026,-75.1965193,"4268 Ridge Ave, Philadelphia, PA 19129",99,Donut Shop
 2,Ridge & Heritage,Thunder Mug Cafe,40.00941146209319,-75.19468934325535,"4233 Ridge Ave, Philadelphia, PA 19129",216,Coffee Shop
