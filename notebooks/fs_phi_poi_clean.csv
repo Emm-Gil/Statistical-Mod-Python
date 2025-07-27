@@ -1,0 +1,938 @@
+,station_name,poi_name,latitude,longitude,address,distance_m,category
+2,Ridge & Heritage,Thunder Mug Cafe,40.00941146209319,-75.19468934325535,"4233 Ridge Ave, Philadelphia, PA 19129",216,Coffee Shop
+3,Ridge & Heritage,Shan Chuan,40.009165706661726,-75.19411377568966,"4211 Ridge Ave (Midvale Ave.), Philadelphia, PA 19129",272,Chinese Restaurant
+4,Ridge & Heritage,LeBus East Falls,40.00886168466631,-75.1936636134526,"4201 Ridge Ave (Indian Queen Lane), Philadelphia, PA 19129",321,New American Restaurant
+20,Huntingdon & Collins,Cook and Shaker,39.982694502837816,-75.12070207770445,"2301 E Albert St (at Tulip St), Philadelphia, PA 19125",310,American Restaurant
+24,Huntingdon & Collins,Atlantis: The Lost Bar,39.98234047431338,-75.12686182383922,"2442 Frankford Ave, Philadelphia, PA 19125",375,Bar
+26,Huntingdon & Collins,Salsa on the Square,39.985416095106885,-75.12136567176852,"2126 E Lehigh Ave, Philadelphia, PA 19125",206,Bar
+41,Main & Shurs,Pilgrim Roasters,40.0226564236708,-75.21936060925687,"4120 Main St, Philadelphia, PA 19127",120,Coffee Shop
+42,Main & Shurs,Craft Manayunk,40.02288636014017,-75.21894490623362,"4141 Main St, Philadelphia, PA 19127",98,Bar
+44,Main & Shurs,Castle Roxx,40.02277716566941,-75.21748482067292,"105 Shurs Ln (at Cresson St), Philadelphia, PA 19127",63,Sports Bar
+47,Main & Shurs,The Goat's Beard,40.023772724303775,-75.22014264044715,"4201 Main St (at Pensdale St), Philadelphia, PA 19127",239,Bar
+48,Main & Shurs,Union Taco,40.02354935524344,-75.21980635552694,"4229 Main St, Philadelphia, PA 19127",202,Taco Restaurant
+49,Main & Shurs,The Couch Tomato Bistro,40.02466297874437,-75.22134222904128,"102 Rector Street (Upstairs) (Main Street (Manayunk)), Philadelphia, PA 19127",381,Tapas Restaurant
+53,University City Station,Starbucks,39.94762356379797,-75.19339072883606,"3400 Civic Center Blvd, Philadelphia, PA 19104",301,Coffee Shop
+57,University City Station,Beka's Chemistry Café,39.95081612581918,-75.19221883160607,"231 S 34th St (In Chemistry Laboratories), Philadelphia, PA 19104",311,Café
+59,University City Station,Starbucks,39.95000940507062,-75.19303650066375,"3400 Spruce St, Philadelphia, PA 19104",300,Coffee Shop
+64,Broad & Carpenter,Chipotle Mexican Grill,39.93902286837372,-75.16775132324646,"1000 S Broad St, Philadelphia, PA 19146",97,Mexican Restaurant
+65,Broad & Carpenter,Starbucks,39.93814367595363,-75.16696429034168,"1002 S Broad St (Washington Avenue), Philadelphia, PA 19146",85,Coffee Shop
+66,Broad & Carpenter,Restaurant Taqueria El Jarocho,39.93648228480978,-75.16484109459253,"1138 S 13th St (at Ellsworth St.), Philadelphia, PA 19147",305,Mexican Restaurant
+68,Broad & Carpenter,Pho 75,39.9372143987388,-75.16278704877544,"1122 Washington Ave (btwn 11th St & 12th St), Philadelphia, PA 19147",375,Vietnamese Restaurant
+69,Broad & Carpenter,mui chung,39.936815192730016,-75.16675037576212,"1133 S Broad St (Ellsworth St), Philadelphia, PA 19147",228,Chinese Restaurant
+70,Broad & Allegheny,Saffron Indian Cuisine,40.002319138072394,-75.15263697152251,"3240 N Broad St, Philadelphia, PA 19140",99,Indian Restaurant
+72,Broad & Allegheny,Caribbean Feast Cuisine,40.003221357986114,-75.15167280983864,"1338 Rising Sun Ave (Broad St.), Philadelphia, PA 19140",212,Caribbean Restaurant
+75,Broad & Allegheny,Taco Bell,39.99977309234654,-75.15373459974586,"3032 N Broad St, Philadelphia, PA 19132",209,Fast Food Restaurant
+76,Broad & Allegheny,Starbucks,40.00451877764395,-75.15274549806354,"3340 N Broad St, Philadelphia, PA 19140",343,Coffee Shop
+82,34th & Spruce,Starbucks,39.95000940507062,-75.19303650066375,"3400 Spruce St, Philadelphia, PA 19104",55,Coffee Shop
+84,34th & Spruce,Beka's Chemistry Café,39.95081612581918,-75.19221883160607,"231 S 34th St (In Chemistry Laboratories), Philadelphia, PA 19104",94,Café
+88,34th & Spruce,Goldie,39.95295591874744,-75.1926238698495,"3401 Walnut St, Philadelphia, PA 19104",280,Falafel Restaurant
+89,34th & Spruce,White Dog Cafe University City,39.95354810000001,-75.1929486,"3420 Sansom St, Philadelphia, PA 19104",341,American Restaurant
+90,41st & Chestnut,Cleopatra Cafe,39.956282079805895,-75.20618421700539,"4145 Chestnut St (at 42nd St), Philadelphia, PA 19104",86,Hookah Bar
+91,41st & Chestnut,Dana Mandi,39.95646609535505,-75.2069702533103,"4211 Chestnut St, Philadelphia, PA 19104",155,Indian Restaurant
+92,41st & Chestnut,New Delhi Indian Restaurant,39.95560933117067,-75.20249279326167,"4004 Chestnut St (at 40th St), Philadelphia, PA 19104",241,Indian Restaurant
+94,41st & Chestnut,Dim Sum House by Jane G's,39.95573081701866,-75.20180941375598,"3939 Chestnut St (40th and Chestnut), Philadelphia, PA 19104",297,Chinese Restaurant
+95,41st & Chestnut,Kilimandjaro,39.95676607480428,-75.2089249938346,"4301 Chestnut St (btwn S 44th & S 43rd St), Philadelphia, PA 19104",323,African Restaurant
+97,41st & Chestnut,Terakawa Ramen,39.95467007526733,-75.20216636012708,"125 S 40th St, Philadelphia, PA 19104",299,Ramen Restaurant
+98,41st & Chestnut,Distrito,39.95576817111351,-75.20208893353745,"3945 Chestnut St (at 40th St), Philadelphia, PA 19104",273,Tapas Restaurant
+99,41st & Chestnut,Kabobeesh,39.95628074775143,-75.20648118729918,"4201 Chestnut St (at 42nd St), Philadelphia, PA 19104",109,Pakistani Restaurant
+103,20th & Market,El Rey,39.9522504,-75.1740503,"2013 Chestnut St (at 20th St), Philadelphia, PA 19103",173,Mexican Restaurant
+105,20th & Market,Wilder,39.95151033971078,-75.17405428325212,"2009 Sansom St, Philadelphia, PA 19103",255,New American Restaurant
+106,20th & Market,Devil's Alley,39.95205289437517,-75.17216600971092,"1907 Chestnut St (at 19th St.), Philadelphia, PA 19103",253,Bar
+107,20th & Market,Vic Sushi Bar,39.95147676145491,-75.17494806114004,"2035 Sansom St, Philadelphia, PA 19103",269,Sushi Restaurant
+108,20th & Market,Village Whiskey,39.95128529751654,-75.17364332772435,"118 S 20th St (at Sansom St), Philadelphia, PA 19103",282,Whisky Bar
+112,"11th & Pine, Kahn Park",Mixto,39.945192782828684,-75.16105999355409,"1141 Pine St (at S 12th St), Philadelphia, PA 19107",96,Cuban Restaurant
+113,"11th & Pine, Kahn Park",Tria Cafe Wash West,39.9466238,-75.1609139,"1137 Spruce St (at S 12th St), Philadelphia, PA 19107",182,Wine Bar
+114,"11th & Pine, Kahn Park",Yellowtail,39.94501914790475,-75.16185778969981,"1218 Pine St, Philadelphia, PA 19107",165,Japanese Restaurant
+115,"11th & Pine, Kahn Park",Good Karma Cafe,39.94467167210889,-75.15797234416873,"928 Pine St (at 10th St), Philadelphia, PA 19107",175,Café
+116,"11th & Pine, Kahn Park",Jiggy Coffee,39.944622,-75.158345,"1000 Pine St (10th St), Philadelphia, PA 19107",148,Coffee Shop
+119,"11th & Pine, Kahn Park",Mercato,39.94660790625103,-75.16187864339636,"1216 Spruce St (at 12th St), Philadelphia, PA 19107",230,Italian Restaurant
+122,Broad & Lehigh,Halal Steaks,39.995325198568665,-75.15392471409723,"2739 N Broad St, Philadelphia, PA 19132",173,Restaurant
+132,"46th Street Station, MFL",Kaffa Crossing,39.95686570269632,-75.21052270723752,"4421 Chestnut St, Philadelphia, PA 19104",304,Ethiopian Restaurant
+134,"46th Street Station, MFL",Kilimandjaro,39.95676607480428,-75.2089249938346,"4301 Chestnut St (btwn S 44th & S 43rd St), Philadelphia, PA 19104",422,African Restaurant
+136,"46th Street Station, MFL",Saad's Halal Restaurant,39.954964,-75.21185,"4500 Walnut St (at 45th St), Philadelphia, PA 19139",427,Middle Eastern Restaurant
+138,"46th Street Station, MFL",Wah-Gi-Wah,39.95682968405307,-75.2113800266784,"4447 Chestnut St, Philadelphia, PA 19104",257,Pakistani Restaurant
+140,Front & Queen,For Pete's Sake,39.93556320232765,-75.14532308457342,"900 S Front St (Christian St), Philadelphia, PA 19147",143,American Restaurant
+141,Front & Queen,Royal Sushi & Izakaya,39.938008678666115,-75.14640796478119,"780 S 2nd St, Philadelphia, PA 19147",183,Japanese Restaurant
+144,Front & Queen,Philadelphia Java Company,39.93610510483682,-75.14690020243661,"852 S 2nd St (at Christian St), Philadelphia, PA 19147",186,Coffee Shop
+148,Front & Queen,New Wave Cafe,39.938004106979626,-75.1484431931029,"784 S 3rd St (at Catherine St), Philadelphia, PA 19147",327,Sports Bar
+151,18th & JFK Curbside,JG SkyHigh,39.955001,-75.170112,"1 N 19th St Fl 60, Philadelphia, PA 19103",107,Restaurant
+153,18th & JFK Curbside,Vernick Fish,39.955296,-75.170268,"1 N 19th St, Philadelphia, PA 19103",142,Seafood Restaurant
+154,18th & JFK Curbside,Vernick Coffee Bar,39.9551000022471,-75.17077723145087,"1800 Arch St, Philadelphia, PA 19103",146,Coffee Shop
+165,8th & Diamond,Tai's Vietnamese Food,39.98193759610899,-75.15285691712718,"1835 N 12th St, Philadelphia, PA 19122",493,Vietnamese Restaurant
+175,Schuylkill & Wharton,Hood Bar,39.937663966393515,-75.19801404915036,"Philadelphia, PA",490,Bar
+178,Schuylkill & Wharton,Graybar Philly,39.93531652507956,-75.20069951945564,"S Warfield St, Philadelphia, PA 19145",498,Bar
+179,Schuylkill & Wharton,Little Delicious,39.94160911885587,-75.2123705788031,"4821 Woodland Ave, Philadelphia, PA 19143",809,Caribbean Restaurant
+182,Temple University Station,Tai's Vietnamese Food,39.98193759610899,-75.15285691712718,"1835 N 12th St, Philadelphia, PA 19122",224,Vietnamese Restaurant
+184,Temple University Station,Chipotle Mexican Grill,39.97941177238066,-75.15316936775942,"1100 W Montgomery Ave (at N 11th St), Philadelphia, PA 19122",263,Mexican Restaurant
+185,Temple University Station,Richie's Café,39.980656679945724,-75.15135550545266,"1802 N Warnock St, Philadelphia, PA 19122",60,Café
+193,54th & Chester,J & J Restaurant,39.938678087859174,-75.22473360638969,"5513 Chester Ave, Philadelphia, PA 19143",123,Caribbean Restaurant
+194,54th & Chester,Kim's Food Market,39.93579886073742,-75.22312734762355,"5559 Greenway Ave, Philadelphia, PA 19143",381,Restaurant
+200,Powelton & Lancaster,Jollie's West,39.96020674442674,-75.19719146840866,"3800 Lancaster Ave (at 38th St), Philadelphia, PA 19104",101,Hookah Bar
+201,Powelton & Lancaster,Green Line Powelton Village,39.95933659577614,-75.1949809788369,"3649 Lancaster Ave (at 37th St & Powelton Ave), Philadelphia, PA 19104",117,Coffee Shop
+203,Powelton & Lancaster,Chengdu Famous Food,39.959240689356236,-75.19446254211044,"3635 Lancaster Ave, Philadelphia, PA 19104",163,Chinese Restaurant
+205,Powelton & Lancaster,Han Dynasty University City,39.95658634457237,-75.19707468846718,"3711 Market St, Philadelphia, PA 19104",337,Szechuan Restaurant
+206,Powelton & Lancaster,Spring Chinese Restaurant,39.96028125745924,-75.19663716049527,"3739 Lancaster Ave, Philadelphia, PA 19104",83,Chinese Restaurant
+207,Powelton & Lancaster,The Creative Café @ Replica,39.95663409397115,-75.1969176744191,"3711 Chestnut St., Philadelphia, PA 19104",330,Coffee Shop
+209,Powelton & Lancaster,Corner Bakery Cafe,39.956685812190706,-75.19696402120832,"3737 Market St, Philadelphia, PA 19104",325,American Restaurant
+216,"11th & Poplar, John F. Street Community Center",Tiffin,39.970424014721544,-75.14873063681557,"710 W Girard Ave (Btwn N 7th & N Marshall St), Philadelphia, PA 19123",535,Indian Restaurant
+219,"11th & Poplar, John F. Street Community Center",Osteria,39.965029,-75.161056,"640 N Broad St, Philadelphia, PA 19130",692,Italian Restaurant
+223,57th & Westminster ,Just To Serve You,39.97037708355784,-75.23346863261581,"5622 W Girard Ave, Philadelphia, PA 19131",383,Southern Food Restaurant
+226,57th & Westminster ,GiGi's Soul Food,39.96985655857859,-75.23868302117339,"5936 Haverford Ave, Philadelphia, PA 19151",542,Southern Food Restaurant
+229,57th & Westminster ,56 And Wyalusing Ave,39.96906535774011,-75.23140400737779,"Philadelphia, PA 19131",301,Bar
+231,Moyamensing & Tasker,Grindcore House,39.92905783936221,-75.15194336145605,"1515 S 4th St (Greenwich), Philadelphia, PA 19147",162,Coffee Shop
+232,Moyamensing & Tasker,2nd Street Brew House,39.92667786916592,-75.14930726924231,"1700 S 2nd St (at Morris St.), Philadelphia, PA 19148",190,Dive Bar
+234,Moyamensing & Tasker,Dee's Place,39.92824248348525,-75.14879598550833,"1528 S 2nd St, Philadelphia, PA 19147",197,Bar
+235,Moyamensing & Tasker,Moonshine Philly,39.92496122587986,-75.15181591709771,"1825 E Moyamensing Ave, Philadelphia, PA 19148",319,Bar
+236,Moyamensing & Tasker,O'Jung's Tavern,39.92728260035497,-75.14873497652329,"1625 S 2nd St, Philadelphia, PA 19148",202,Bar
+237,Moyamensing & Tasker,Cake and Joe,39.930425,-75.149601,"1401 E Moyamensing Ave, Philadelphia, PA 19147",319,Café
+239,Moyamensing & Tasker,Herman's Coffee,39.9313524000752,-75.14967517493986,"1313 S 3rd St, Philadelphia, PA 19147",414,Coffee Shop
+244,Oxford & Glenwood,iMunch Cafe,39.97585990634777,-75.18637151525799,"1233 N 31st St, Philadelphia, PA 19121",486,Café
+246,Oxford & Glenwood,Twenty Nine Oxford Restaurant,39.98052085104743,-75.18193862052179,"2843 W Oxford St, Philadelphia, PA 19121",390,Restaurant
+260,7th & Fitzwater,Saloon Restaurant,39.93999553603746,-75.15444698523777,"750 S 7th St (btwn Fitzwater and Catharine), Philadelphia, PA 19147",20,Italian Restaurant
+261,7th & Fitzwater,Fitzwater Cafe,39.94040235975633,-75.15446981014934,"728 S 7th St, Philadelphia, PA 19147",25,Café
+262,7th & Fitzwater,Rally,39.941216,-75.154002,"701 S 7th St (Bainbridge St), Philadelphia, PA 19147",120,Coffee Shop
+263,7th & Fitzwater,Little Fish,39.940028,-75.152811,"746 S 6th St (Fitzwater st), Philadelphia, PA 19147",138,Seafood Restaurant
+264,7th & Fitzwater,Angelina's,39.940276661299535,-75.15575145029139,"743 S 8th St, Philadelphia, PA 19147",113,Italian Restaurant
+265,7th & Fitzwater,The Good King Tavern,39.94184315086448,-75.15405594003093,"614 S 7th St (at Kater St), Philadelphia, PA 19147",187,Restaurant
+269,7th & Fitzwater,Brauhaus Schmitz,39.94217699094252,-75.15466697508847,"718 South St (at 8th St), Philadelphia, PA 19147",222,German Restaurant
+270,48th & Woodland,Little Delicious,39.94160911885587,-75.2123705788031,"4821 Woodland Ave, Philadelphia, PA 19143",117,Caribbean Restaurant
+282,6th & S Washington Square,Talula's Garden,39.94714094280398,-75.15347877070249,"210 W Washington Sq (btwn Walnut St & Locust St), Philadelphia, PA 19106",202,New American Restaurant
+283,6th & S Washington Square,Talula's Daily,39.94720819910365,-75.153444974205,"208 W Washington Sq, Philadelphia, PA 19106",203,Café
+292,2nd & George,One Shot Cafe,39.967631,-75.1407,"217 W George St (at American St), Philadelphia, PA 19123",72,Café
+293,2nd & George,Apricot Stone,39.967402573897,-75.14109220678496,"426 W Girard Ave (btwn W George St & W Wildey St), Philadelphia, PA 19123",95,Mediterranean Restaurant
+294,2nd & George,Baan Thai,39.96718594081968,-75.1411644949396,"1030 N American St, Philadelphia, PA 19123",100,Thai Restaurant
+295,2nd & George,Poke Bowl,39.96565635888703,-75.14059436553752,"958 N 2nd St, Philadelphia, PA 19123",186,Poke Restaurant
+298,2nd & George,Jerry's Bar,39.96510109416032,-75.138906973813,"129 W Laurel St (at New Market), Philadelphia, PA 19123",258,Bar
+301,Broad & Cecil B. Moore,Pita Chip,39.9780377862915,-75.1584168065293,"1600 N Broad St Ste 7, Philadelphia, PA 19121",107,Mediterranean Restaurant
+302,Broad & Cecil B. Moore,Tropical Smoothie Cafe,39.977931062914465,-75.15840999874148,"1600 N Broad St, Philadelphia, PA 19121",117,Juice Bar
+303,Broad & Cecil B. Moore,Honeygrow,39.97742972464794,-75.15751755550048,"1601 N Broad St (Cecil B Moore Ave), Philadelphia, PA 19122",161,Salad Restaurant
+306,Broad & Cecil B. Moore,Qdoba Mexican Eats,39.9785404,-75.158377,"1600 N Broad St (Suite 12), Philadelphia, PA 19121",63,Mexican Restaurant
+310,Midvale & Cresson,LeBus East Falls,40.00886168466631,-75.1936636134526,"4201 Ridge Ave (Indian Queen Lane), Philadelphia, PA 19129",259,New American Restaurant
+311,Midvale & Cresson,Fiorino,40.00973593094976,-75.1903618284967,"3572 Indian Queen Ln, Philadelphia, PA 19129",263,Italian Restaurant
+313,Midvale & Cresson,Shan Chuan,40.009165706661726,-75.19411377568966,"4211 Ridge Ave (Midvale Ave.), Philadelphia, PA 19129",241,Chinese Restaurant
+314,Midvale & Cresson,Thunder Mug Cafe,40.00941146209319,-75.19468934325535,"4233 Ridge Ave, Philadelphia, PA 19129",245,Coffee Shop
+323,16th & Callowhill,Doma Japanese Restaurant,39.96052071525839,-75.16919632546524,"1822 Callowhill St, Philadelphia, PA 19130",353,Sushi Restaurant
+324,16th & Callowhill,Kelliann's Bar & Grill,39.963014,-75.164509,"1549 Spring Garden St, Philadelphia, PA 19130",338,Dive Bar
+327,16th & Callowhill,Gyu-Kaku Japanese BBQ,39.96072762984046,-75.17020957431274,"1901 Callowhill St, Philadelphia, PA 19130",442,Japanese Restaurant
+330,22nd & Spring Garden,Umai Umai,39.964673,-75.17412999999999,"533 N 22nd St, Philadelphia, PA 19130",89,Sushi Restaurant
+332,22nd & Spring Garden,Dizengoff,39.96300504544611,-75.17428656367117,"2101 Pennsylvania Ave, Philadelphia, PA 19130",106,Jewish Restaurant
+334,22nd & Spring Garden,Goldie - Whole Foods Market,39.96300258045803,-75.1742946711873,"2101 Pennsylvania Ave, Philadelphia, PA 19130",106,Falafel Restaurant
+335,22nd & Spring Garden,WFM Coffee Bar,39.9628975369245,-75.17413924269384,"2101 Pennsylvania Ave, Philadelphia, PA 19130",114,Coffee Shop
+340,Girard & Palmer,Lloyd,39.97133198702904,-75.12744793114754,"529 E Girard Ave (at Montgomery Ave), Philadelphia, PA 19125",61,Whisky Bar
+341,Girard & Palmer,Kraftwork,39.97149103610161,-75.12734564943315,"541 E Girard Ave (at E Montgomery Ave), Philadelphia, PA 19125",76,Bar
+358,Lindbergh & Wheeler,Carlette's backyard,39.93005376053848,-75.21957240870441,"Philadelphia, PA 19143",380,Bar
+362,18th & JFK,JG SkyHigh,39.955001,-75.170112,"1 N 19th St Fl 60, Philadelphia, PA 19103",153,Restaurant
+363,18th & JFK,Vernick Fish,39.955296,-75.170268,"1 N 19th St, Philadelphia, PA 19103",188,Seafood Restaurant
+364,18th & JFK,Konditori,39.95183800869956,-75.1687583423349,"40 S 17th St, Philadelphia, PA 19103",230,Coffee Shop
+365,18th & JFK,Gran Caffe L'Aquila,39.951727725547904,-75.16939016959759,"1716 Chestnut St, Philadelphia, PA 19103",243,Italian Restaurant
+368,18th & JFK,Sweetgreen,39.9518677,-75.1711748,"1821 Chestnut St, Philadelphia, PA 19103",291,Salad Restaurant
+373,"43rd & Chester, Clark Park",Green Line Cafe,39.949702,-75.209126,"4239 Baltimore Ave (at 43rd St), Philadelphia, PA 19104",164,Coffee Shop
+379,"43rd & Chester, Clark Park",Earth Cup,39.95155956572168,-75.21224255680835,"405 S 45th St (at Pine Street), Philadelphia, PA 19104",458,Coffee Shop
+382,12th & Callowhill,Elixr Coffee Roasters,39.95815106712113,-75.15818075361338,"315 N 12th St, Philadelphia, PA 19107",121,Coffee Shop
+383,12th & Callowhill,Parada Maimon,39.958952903208015,-75.15818888405154,"345 N 12th St, Philadelphia, PA 19107",31,Latin American Restaurant
+386,12th & Callowhill,The Trestle Inn,39.95884296625862,-75.15666079997288,"339 N 11th St (at Callowhill St), Philadelphia, PA 19107",139,Whisky Bar
+395,25th & Diamond,Assassins Motorcycle Club,39.99036035921324,-75.17637411394517,"Philadelphia, PA",379,Sports Bar
+405,12th & Normandy,Bar Amis,39.89662491763111,-75.17551254494923,"4503 S Broad St, Philadelphia, PA 19112",489,Italian Restaurant
+406,12th & Normandy,The Galley Cafe,39.891208,-75.172409,"1200 Constitution Ave, Philadelphia, PA 19112",228,Café
+407,12th & Normandy,The Bistro,39.895431,-75.171926,"1001 Intrepid Ave (League Island Blvd), Philadelphia, PA 19112",245,Coffee Shop
+410,50th & Haverford,Cozy Bar,39.9640677558295,-75.22221661683355,"5100 Haverford Ave, Philadelphia, PA 19139",147,Bar
+411,50th & Haverford,Top Taste,39.96118545959108,-75.22486763865805,"40 N 52nd St, Philadelphia, PA 19139",490,Caribbean Restaurant
+413,50th & Haverford,The Family MC,39.96434855972675,-75.22326724808406,"5140 Haverford Ave (52 nd st), Philadelphia, PA 19139",239,Bar
+421,"Broad & Pattison, BSL",Xfinity Live! Philadelphia,39.90431369464889,-75.16931729492173,"1100 Pattison Ave (at 11th St), Philadelphia, PA 19148",350,Sports Bar
+422,"Broad & Pattison, BSL",Victory Beer Hall,39.90431570844593,-75.16971426252118,"1100 Pattison Ave (at XFINITY Live! Philadelphia), Philadelphia, PA 19148",317,Beer Bar
+425,"Broad & Pattison, BSL",Broad Street Bullies Pub,39.90447125128759,-75.16925565965765,"1100 Pattison Ave (at XFINITY Live! Philadelphia), Philadelphia, PA 19148",354,Sports Bar
+427,"Broad & Pattison, BSL",PBR Bar & Grill,39.904137232411436,-75.16949083062157,"1100 Pattison Ave (at 11th St), Philadelphia, PA 19148",339,Bar
+431,19th & Market,Condesa,39.952526,-75.17139,"1830 Ludlow St, Philadelphia, PA 19103",122,Mexican Restaurant
+433,19th & Market,Devil's Alley,39.95205289437517,-75.17216600971092,"1907 Chestnut St (at 19th St.), Philadelphia, PA 19103",167,Bar
+437,19th & Market,Sweetgreen,39.9518677,-75.1711748,"1821 Chestnut St, Philadelphia, PA 19103",197,Salad Restaurant
+438,19th & Market,El Techo,39.952434,-75.171385,"1830 Ludlow St, Philadelphia, PA 19103",132,Mexican Restaurant
+439,19th & Market,K'Far,39.951446,-75.172111,"110 S 19th St, Philadelphia, PA 19103",234,Café
+451,19th & Lombard,SouthGate,39.945551,-75.171765,"1801 Lombard St (at 18th St), Philadelphia, PA 19146",146,Korean Restaurant
+456,19th & Lombard,Bistro Southeast,39.944336898163556,-75.17286356949793,"1824 South St, Philadelphia, PA 19146",150,Asian Restaurant
+459,19th & Lombard,Midnight Iris,39.94522275798762,-75.17064162388888,"1708 Lombard St (17th St), Philadelphia, PA 19146",245,American Restaurant
+460,43rd & Powelton,Kilimandjaro,39.95676607480428,-75.2089249938346,"4301 Chestnut St (btwn S 44th & S 43rd St), Philadelphia, PA 19104",215,African Restaurant
+462,43rd & Powelton,Kaffa Crossing,39.95686570269632,-75.21052270723752,"4421 Chestnut St, Philadelphia, PA 19104",282,Ethiopian Restaurant
+463,43rd & Powelton,Dana Mandi,39.95646609535505,-75.2069702533103,"4211 Chestnut St, Philadelphia, PA 19104",255,Indian Restaurant
+466,43rd & Powelton,Cleopatra Cafe,39.956282079805895,-75.20618421700539,"4145 Chestnut St (at 42nd St), Philadelphia, PA 19104",304,Hookah Bar
+470,17th & Girard,Libertee Grounds,39.971599334023246,-75.16321131961746,"1600 W Girard Ave, Philadelphia, PA 19130",58,Beer Bar
+472,17th & Girard,Vineyards Cafe,39.96984341458582,-75.1629700916429,"847 N 16th St, Philadelphia, PA 19130",251,Coffee Shop
+474,17th & Girard,Lorraine,39.96799374905181,-75.16237877250926,"1502 Brown St, Philadelphia, PA 19130",463,Bar
+476,17th & Girard,Cameron's Seafood,39.9706452560659,-75.16013916420667,"1600 Fairmount Ave (16th & Fairmount), Philadelphia, PA 19130",327,Seafood Restaurant
+482,Health Sciences Drive,Starbucks,39.94762356379797,-75.19339072883606,"3400 Civic Center Blvd, Philadelphia, PA 19104",277,Coffee Shop
+492,"York-Dauphin Station, MFL",Rowhome Coffee,39.98300725533054,-75.13287417907075,"2152 Front St (Susquenna Ave), Philadelphia, PA 19122",212,Coffee Shop
+493,"York-Dauphin Station, MFL",Atlantis: The Lost Bar,39.98234047431338,-75.12686182383922,"2442 Frankford Ave, Philadelphia, PA 19125",561,Bar
+494,"York-Dauphin Station, MFL",The Monkey Club,39.98237837638985,-75.12823057378588,"2101 E York St (Amber), Philadelphia, PA 19125",462,Dive Bar
+499,"York-Dauphin Station, MFL",Three Elements,39.988380111300735,-75.13510745096474,"2501 N 2nd St (Cumberland), Philadelphia, PA 19133",443,Bar
+501,16th & Chestnut,Dizengoff,39.95071550302768,-75.16836116134685,"1625 Sansom St, Philadelphia, PA 19103",96,Israeli Restaurant
+502,16th & Chestnut,Harp & Crown,39.9505301,-75.1668181,"1525 Sansom St, Philadelphia, PA 19102",110,New American Restaurant
+503,16th & Chestnut,Konditori,39.95183800869956,-75.1687583423349,"40 S 17th St, Philadelphia, PA 19103",114,Coffee Shop
+504,16th & Chestnut,Oyster House,39.950288,-75.166666,"1516 Sansom St (btw 15th St & 16th St), Philadelphia, PA 19102",140,Seafood Restaurant
+505,16th & Chestnut,Luke's Lobster,39.950642282606665,-75.16894713014693,"130 S 17th St (at Sansom St), Philadelphia, PA 19103",139,Seafood Restaurant
+506,16th & Chestnut,Gran Caffe L'Aquila,39.951727725547904,-75.16939016959759,"1716 Chestnut St, Philadelphia, PA 19103",160,Italian Restaurant
+511,22nd & Federal,Madira Bar and Grill,39.935919042089644,-75.17915905287052,"1252 S 21st St, Philadelphia, PA 19146",219,Indian Restaurant
+513,22nd & Federal,Los Camaradas,39.94081601901921,-75.17973144125848,"918 S 22nd St (at Carpenter St), Philadelphia, PA 19146",342,Mexican Restaurant
+514,22nd & Federal,OCF Coffee House 2,39.93744816669761,-75.17689290886075,"2001 Federal St, Philadelphia, PA 19146",277,Coffee Shop
+519,22nd & Federal,22nd Street Cafe,39.936125706582246,-75.18076282808812,"1264 S 22nd St (at Wharton St), Philadelphia, PA 19146",188,Café
+520,8th & Chestnut,Morimoto,39.949607,-75.153344,"723 Chestnut St (at 7th St), Philadelphia, PA 19106",77,Japanese Restaurant
+526,8th & Chestnut,Talula's Garden,39.94714094280398,-75.15347877070249,"210 W Washington Sq (btwn Walnut St & Locust St), Philadelphia, PA 19106",296,New American Restaurant
+527,8th & Chestnut,Sweetgreen,39.94832076167723,-75.15701806486913,"924 Walnut St (at 10th St), Philadelphia, PA 19107",284,Salad Restaurant
+528,8th & Chestnut,La Colombe Coffee Roasters,39.95056267980895,-75.15075758821155,"100 S Independence Mall West (at Market St), Philadelphia, PA 19106",310,Coffee Shop
+538,Pennsylvania Convention Center,Four Seasons Juice Bar,39.95341306070958,-75.15959480031424,"12th and Filbert, Philadelphia, PA 19107",177,Juice Bar
+544,"Berks Station, MFL",Kalaya,39.97564987595705,-75.13313455564375,"4 W Palmer St (at Blair St), Philadelphia, PA 19122",359,Thai Restaurant
+545,"Berks Station, MFL",Da Vista Urso 2.0,39.97939493682621,-75.1336352595369,"Philadelphia, PA",60,Bar
+547,"Berks Station, MFL",LMNO,39.97606,-75.133704,"1739 N Front St, Philadelphia, PA 19122",314,Mexican Restaurant
+548,"Berks Station, MFL",Buzz Cafe,39.977471074816684,-75.13501932584151,"1800 N Howard St, Philadelphia, PA 19122",209,Café
+550,26th & Poplar,Lucky Goat Coffee House,39.972487950274584,-75.17935730716006,"888 N 26th St (at Poplar St), Philadelphia, PA 19130",45,Coffee Shop
+552,26th & Poplar,2637Brew,39.97433440252006,-75.18003518604161,"2637 W Girard Ave, Philadelphia, PA 19130",172,American Restaurant
+554,26th & Poplar,Brown Street Coffee,39.970450661128716,-75.17948456229703,"2545 Brown St (26'th Street), Philadelphia, PA 19130",261,Coffee Shop
+556,26th & Poplar,Green Eggs Cafe,39.974146568249,-75.18217418068042,"2800 W Girard Ave (28’th Street), Philadelphia, PA 19130",257,Restaurant
+557,26th & Poplar,Angelino's Restaurant,39.971258643408454,-75.1777513050809,"849 N 25th St (at Parrish St), Philadelphia, PA 19130",239,Italian Restaurant
+558,26th & Poplar,Trio,39.970369965319335,-75.18048119038606,"2624 Brown St (at N Taney St), Philadelphia, PA 19130",277,Thai Restaurant
+563,16th & Montgomery,Maple Star,39.9791892383782,-75.16051242595141,"1521 Cecil B Moore Ave (North 15th St), Philadelphia, PA 19121",191,Chinese Restaurant
+567,16th & Montgomery,Pita Chip,39.9780377862915,-75.1584168065293,"1600 N Broad St Ste 7, Philadelphia, PA 19121",371,Mediterranean Restaurant
+568,16th & Montgomery,Tropical Smoothie Cafe,39.977931062914465,-75.15840999874148,"1600 N Broad St, Philadelphia, PA 19121",382,Juice Bar
+570,13th & Mifflin,Artisan Boulanger Patissier,39.926352965316944,-75.166339338567,"1218 Mifflin St (at S Iseminger St), Philadelphia, PA 19148",42,Café
+571,13th & Mifflin,Stargazy,39.92679571550138,-75.16735612833608,"1838 E Passyunk Ave (Mifflin), Philadelphia, PA 19148",57,English Restaurant
+572,13th & Mifflin,Gabriella's Vietnam,39.92693146669747,-75.16659121117044,"1837 E Passyunk Ave, Philadelphia, PA 19148",51,Vietnamese Restaurant
+574,13th & Mifflin,Le Virtù,39.926044241224766,-75.16788506398544,"1927 E Passyunk Ave, Philadelphia, PA 19148",105,Italian Restaurant
+575,13th & Mifflin,Fuel,39.92633186526494,-75.16766362535178,"1917 E Passyunk Ave (Mifflin St.), Philadelphia, PA 19148",75,New American Restaurant
+579,13th & Mifflin,Flannel,39.92709952708369,-75.16638706711821,"1819 E Passyunk Ave, Philadelphia, PA 19148",75,Southern Food Restaurant
+586,Ridge & Master,Libertee Grounds,39.971599334023246,-75.16321131961746,"1600 W Girard Ave, Philadelphia, PA 19130",648,Beer Bar
+593,2nd & Lombard,Spruce Street Park - Beer Barge,39.94446465043163,-75.14100193977355,"S Columbus Blvd, Philadelphia, PA",482,Bar
+594,2nd & Lombard,Positano Coast by Aldo Lamberti,39.946803446288506,-75.14494694530335,"212 Walnut St Fl 2 (2nd St), Philadelphia, PA 19106",555,Italian Restaurant
+595,2nd & Lombard,Eulogoy,39.94205589229199,-75.14253771551319,"Philadelphia, PA",253,Bar
+596,2nd & Lombard,The Olde Bar,39.946785,-75.14383,"125 Walnut St (at 2nd St), Philadelphia, PA 19106",569,Cocktail Bar
+598,2nd & Lombard,Frieda,39.9470672635393,-75.14719812592973,"320 Walnut St, Philadelphia, PA 19106",600,Café
+599,2nd & Lombard,Liberty Point,39.945906,-75.140135,"211 S Columbus Blvd, Philadelphia, PA 19106",644,American Restaurant
+600,"63rd St Station, MFL",Kif's Sports Bar and Hookah Lounge,39.962150466450986,-75.24437231229776,"6142 Market St (btw 62 St & Robinson St), Philadelphia, PA 19139",98,Sports Bar
+606,"63rd St Station, MFL",Hong Kong Restaurant,39.96382427548288,-75.2411699944514,"100 N Edgewood St, Philadelphia, PA 19139",394,Chinese Restaurant
+607,"63rd St Station, MFL",Uptown Grill,39.96093682718745,-75.24115281819579,"44 S 60th St, Philadelphia, PA 19139",403,American Restaurant
+616,ParkWest Town Center,Cafe Breezes,39.97998109106129,-75.2229091366847,"5131 W Columbia Ave, Philadelphia, PA 19131",197,Bar
+624,Broad & Diamond,Peking Garden,39.98643032572356,-75.15572487541299,"2205 N Broad St, Philadelphia, PA 19132",186,Chinese Restaurant
+626,Broad & Diamond,Saxbys Coffee,39.98161777609731,-75.15605803308691,"1902 Liacouras Walk (Temple University), Philadelphia, PA 19122",370,Coffee Shop
+628,Broad & Diamond,Tai's Vietnamese Food,39.98193759610899,-75.15285691712718,"1835 N 12th St, Philadelphia, PA 19122",464,Vietnamese Restaurant
+630,13th & Spruce,Vetri Cucina,39.94676083993761,-75.16318323370909,"1312 Spruce St, Philadelphia, PA 19107",52,Italian Restaurant
+631,13th & Spruce,Monster Vegan,39.946826224006855,-75.16214514790943,"1229 Spruce St, Philadelphia, PA 19107",51,Vegan and Vegetarian Restaurant
+632,13th & Spruce,Mercato,39.94660790625103,-75.16187864339636,"1216 Spruce St (at 12th St), Philadelphia, PA 19107",64,Italian Restaurant
+633,13th & Spruce,Writer's Block Rehab,39.946353,-75.163647,"1342 Cypress St (btwn S 13th & Juniper St), Philadelphia, PA 19107",89,Cocktail Bar
+636,13th & Spruce,Tavern On Camac,39.94729492117529,-75.1616352765001,"243 S Camac St (btwn Locust & Spruce St), Philadelphia, PA 19107",118,Gay Bar
+637,13th & Spruce,Tria Cafe Wash West,39.9466238,-75.1609139,"1137 Spruce St (at S 12th St), Philadelphia, PA 19107",146,Wine Bar
+638,13th & Spruce,Bud & Marilyn's,39.947792141419676,-75.16225657280376,"1234 Locust St (at S 13th St), Philadelphia, PA 19107",141,Comfort Food Restaurant
+639,13th & Spruce,Little Nonna's,39.94796392396066,-75.16198817025744,"1234 Locust St, Philadelphia, PA 19107",166,Italian Restaurant
+641,Ridge & Ferry,LeBus East Falls,40.00886168466631,-75.1936636134526,"4201 Ridge Ave (Indian Queen Lane), Philadelphia, PA 19129",193,New American Restaurant
+642,Ridge & Ferry,Fiorino,40.00973593094976,-75.1903618284967,"3572 Indian Queen Ln, Philadelphia, PA 19129",261,Italian Restaurant
+648,Ridge & Ferry,Shan Chuan,40.009165706661726,-75.19411377568966,"4211 Ridge Ave (Midvale Ave.), Philadelphia, PA 19129",245,Chinese Restaurant
+651,The Children's Hospital of Philadelphia (CHOP),Starbucks,39.94762356379797,-75.19339072883606,"3400 Civic Center Blvd, Philadelphia, PA 19104",63,Coffee Shop
+656,The Children's Hospital of Philadelphia (CHOP),Kitchen Gia,39.94812577103885,-75.19320057007454,"3400 Civic Center Blvd, Philadelphia, PA 19104",83,American Restaurant
+659,The Children's Hospital of Philadelphia (CHOP),Starbucks,39.95000940507062,-75.19303650066375,"3400 Spruce St, Philadelphia, PA 19104",260,Coffee Shop
+679,18th & Vine,Doma Japanese Restaurant,39.96052071525839,-75.16919632546524,"1822 Callowhill St, Philadelphia, PA 19130",257,Sushi Restaurant
+680,21st & Catharine,Ultimo Coffee,39.94252536801373,-75.17905780552434,"2149 Catharine St (22nd St), Philadelphia, PA 19146",140,Coffee Shop
+681,21st & Catharine,The Sidecar Bar & Grille,39.94172583254961,-75.17939674133275,"2201 Christian St (at 22nd St), Philadelphia, PA 19146",171,Bar
+683,21st & Catharine,Los Camaradas,39.94081601901921,-75.17973144125848,"918 S 22nd St (at Carpenter St), Philadelphia, PA 19146",245,Mexican Restaurant
+690,18th & Chestnut,Sweetgreen,39.9518677,-75.1711748,"1821 Chestnut St, Philadelphia, PA 19103",48,Salad Restaurant
+692,18th & Chestnut,The Dandelion,39.951038522168545,-75.17068929970264,"124 S 18th St (at Sansom St), Philadelphia, PA 19103",78,English Restaurant
+693,18th & Chestnut,Tria Cafe Rittenhouse,39.9509483,-75.1704197,"123 S 18th St (Rittenhouse Sq.), Philadelphia, PA 19103",89,Wine Bar
+694,18th & Chestnut,Gran Caffe L'Aquila,39.951727725547904,-75.16939016959759,"1716 Chestnut St, Philadelphia, PA 19103",105,Italian Restaurant
+695,18th & Chestnut,The Love,39.95077944503111,-75.17090857028961,"130 S 18th St (Sansom), Philadelphia, PA 19103",109,New American Restaurant
+696,18th & Chestnut,HipCityVeg,39.950802,-75.170486,"127 S 18th St (at Sansom St), Philadelphia, PA 19103",104,Vegan and Vegetarian Restaurant
+697,18th & Chestnut,K'Far,39.951446,-75.172111,"110 S 19th St, Philadelphia, PA 19103",130,Café
+698,18th & Chestnut,Devil's Alley,39.95205289437517,-75.17216600971092,"1907 Chestnut St (at 19th St.), Philadelphia, PA 19103",135,Bar
+699,18th & Chestnut,Konditori,39.95183800869956,-75.1687583423349,"40 S 17th St, Philadelphia, PA 19103",159,Coffee Shop
+706,30th & Oakford,Roscoe's Seafood,39.93794241377423,-75.19631247618551,"3127 Wharton St, Philadelphia, PA 19146",279,Seafood Restaurant
+710,2nd & Race,United By Blue Coffeehouse and Clothier,39.953862,-75.143,"144 N 2nd St (at Race St), Philadelphia, PA 19106",31,Coffee Shop
+711,2nd & Race,Race Street Cafe,39.95382321606454,-75.14332550924263,"208 Race St, Philadelphia, PA 19106",59,Bar
+713,2nd & Race,Tuna Bar,39.95400750703029,-75.14320998562664,"205 Race St, Philadelphia, PA 19106",53,Sushi Restaurant
+719,2nd & Race,Cafe Ole,39.953501708943776,-75.14485180486929,"147 N 3rd St (at Quarry St.), Philadelphia, PA 19106",192,Coffee Shop
+720,Darien & Catharine,Fiorella,39.938875,-75.156935,"817 Christian St, Philadelphia, PA 19147",56,Italian Restaurant
+721,Darien & Catharine,Anthony's Italian Coffee House,39.938737444066525,-75.15778988599777,"903 S 9th St (Christian), Philadelphia, PA 19147",86,Coffee Shop
+723,Darien & Catharine,Superior Pasta Company,39.93912285644683,-75.15799930824566,"905 Christian St (9th), Philadelphia, PA 19147",75,Italian Restaurant
+724,Darien & Catharine,12 Steps Down,39.93896303098274,-75.15776100761168,"831 Christian St (at 9th St), Philadelphia, PA 19147",66,Bar
+725,Darien & Catharine,Ralph's Italian Restaurant,39.94002541570715,-75.15766130722334,"760 S 9th St (btwn Fitzwater & Catherine Sts), Philadelphia, PA 19147",86,Italian Restaurant
+728,Darien & Catharine,Cafe Cuong,39.93882210357747,-75.15604566971898,"811 S 8th St (Christian Street), Philadelphia, PA 19147",111,Vietnamese Restaurant
+739,33rd & Dauphin,My Bed,39.99158630645454,-75.18255781733248,"At Home, Philadelphia, PA 19132",325,Bar
+750,Moyamensing & Ritner,Los Gallos,39.92111046000221,-75.163377763525,"951 Wolf St (at 10th St), Philadelphia, PA 19148",165,Mexican Restaurant
+753,Moyamensing & Ritner,Frida Cantina,39.920894557790696,-75.16366991281772,"1000 Wolf St, Philadelphia, PA 19148",135,Mexican Restaurant
+755,Moyamensing & Ritner,SouthHouse,39.91803133431034,-75.1687293334536,"2535 S 13th St (Shunk), Philadelphia, PA 19148",438,Bar
+759,Moyamensing & Ritner,Matteo's,39.91998000700984,-75.16666246370401,"1138 W Ritner St (12th and Ritner Sts), Philadelphia, PA 19148",221,Italian Restaurant
+760,9th & Race,Rays Cafe & Tea House Inc.,39.954662224486576,-75.1544034783728,"141 N 9th St, Philadelphia, PA 19107",21,Asian Restaurant
+761,9th & Race,Terakawa Ramen,39.955403963762315,-75.15440488682123,"204 N 9th St (btwn Race & Spring St), Philadelphia, PA 19107",63,Ramen Restaurant
+763,9th & Race,Spice C Hand Drawn Noodle House,39.95439581127642,-75.15605049337238,"131 N 10th St, Philadelphia, PA 19107",141,Chinese Restaurant
+764,9th & Race,Ting Wong,39.95474572169273,-75.15603030152103,"138 N 10th St (at Arch St), Philadelphia, PA 19107",131,Chinese Restaurant
+765,9th & Race,EMei Restaurant,39.953607844040114,-75.15543428390275,"915 Arch St, Philadelphia, PA 19107",158,Chinese Restaurant
+767,9th & Race,Chubby Cattle,39.95491132710946,-75.1561680401664,"146 N 10th St, Philadelphia, PA 19107",143,Chinese Restaurant
+768,9th & Race,Bubblefish,39.95345457284423,-75.15515705141259,"909 Arch St, Philadelphia, PA 19107",164,Sushi Restaurant
+769,9th & Race,Sang Kee Peking Duck House,39.95644347292135,-75.15402667490855,"238 N 9th St, Philadelphia, PA 19107",182,Chinese Restaurant
+770,York & Trenton,Atlantis: The Lost Bar,39.98234047431338,-75.12686182383922,"2442 Frankford Ave, Philadelphia, PA 19125",120,Bar
+774,York & Trenton,St. Oner’s,39.979849414239425,-75.12863018452495,"2213 Frankford Ave, Philadelphia, PA 19125",196,Bar
+775,York & Trenton,The Monkey Club,39.98237837638985,-75.12823057378588,"2101 E York St (Amber), Philadelphia, PA 19125",141,Dive Bar
+782,York & Aramingo,Starbucks,39.97488902894964,-75.12108966275576,"2433 Aramingo Ave, Philadelphia, PA 19125",105,Coffee Shop
+785,York & Aramingo,Coffee House Too,39.97683008925086,-75.12368091340477,"2514 E York St # 3647 (at Belgrade St), Philadelphia, PA 19125",215,Café
+791,5th & Wolf,Terryin,39.921944217478746,-75.15282186830889,"358 Snyder Ave, Philadelphia, PA 19148",359,Chinese Restaurant
+792,5th & Wolf,The Wild Burrito,39.92281027634022,-75.1525331999143,"2015 E Moyamensing Ave, Philadelphia, PA 19148",441,Burrito Restaurant
+794,5th & Wolf,I Heart Cambodia Restaurant,39.921417033474114,-75.15849709569801,"2207 S 7th St, Philadelphia, PA 19148",251,Cambodian Restaurant
+795,5th & Wolf,Heng Seng Restaurant,39.92103980445385,-75.1583936224857,"2217 S 7th St, Philadelphia, PA 19148",219,Asian Restaurant
+800,12th & Carpenter,Pho 75,39.9372143987388,-75.16278704877544,"1122 Washington Ave (btwn 11th St & 12th St), Philadelphia, PA 19147",172,Vietnamese Restaurant
+801,12th & Carpenter,Sky Cafe,39.93701234513389,-75.16293716036692,"1122-38 Washington Ave, Philadelphia, PA 19147",189,Indonesian Restaurant
+802,12th & Carpenter,Restaurant Taqueria El Jarocho,39.93648228480978,-75.16484109459253,"1138 S 13th St (at Ellsworth St.), Philadelphia, PA 19147",267,Mexican Restaurant
+804,12th & Carpenter,Nam Phuong Restaurant,39.93651337954465,-75.1619692866496,"1100 Washington Ave (at 11th St), Philadelphia, PA 19147",272,Vietnamese Restaurant
+805,12th & Carpenter,Le Viet,39.937744633855324,-75.1611508483947,"1019 S 11th St (at Washington Ave), Philadelphia, PA 19147",225,Vietnamese Restaurant
+807,12th & Carpenter,Viet Huong Restaurant,39.93694005369687,-75.16187535689946,"1110 Washington Ave (at S 11th St), Philadelphia, PA 19147",236,Vietnamese Restaurant
+814,Grays Ferry & Pemberton,Rival Bros Coffee,39.94653993759493,-75.18068102034958,"2400 Lombard St (at S 24th St), Philadelphia, PA 19146",253,Coffee Shop
+816,Grays Ferry & Pemberton,Ultimo Coffee,39.94252536801373,-75.17905780552434,"2149 Catharine St (22nd St), Philadelphia, PA 19146",274,Coffee Shop
+818,Grays Ferry & Pemberton,Cafe Lutecia,39.946495276471666,-75.1795368098496,"2301 Lombard St (at 23rd St), Philadelphia, PA 19146",284,Café
+820,28th & Lehigh,Bob's House of Crabs,39.99740525357356,-75.17966706547972,"2933 W Lehigh Ave, Philadelphia, PA 19132",186,Seafood Restaurant
+831,Saunders & Pearl,Jollie's West,39.96020674442674,-75.19719146840866,"3800 Lancaster Ave (at 38th St), Philadelphia, PA 19104",141,Hookah Bar
+832,Saunders & Pearl,Golden Tea House,39.9605610414915,-75.20194542692583,"40th and Baring, Philadelphia, PA 19104",273,Piano Bar
+833,Saunders & Pearl,Han Dynasty University City,39.95658634457237,-75.19707468846718,"3711 Market St, Philadelphia, PA 19104",405,Szechuan Restaurant
+834,Saunders & Pearl,Green Line Powelton Village,39.95933659577614,-75.1949809788369,"3649 Lancaster Ave (at 37th St & Powelton Ave), Philadelphia, PA 19104",335,Coffee Shop
+835,Saunders & Pearl,The Creative Café @ Replica,39.95663409397115,-75.1969176744191,"3711 Chestnut St., Philadelphia, PA 19104",405,Coffee Shop
+836,Saunders & Pearl,Quality Taste Jamaican Restaurant & Jerk Hut,39.96309900792833,-75.20271181699856,"4002 Lancaster Ave, Philadelphia, PA 19104",479,Caribbean Restaurant
+838,Saunders & Pearl,Corner Bakery Cafe,39.956685812190706,-75.19696402120832,"3737 Market St, Philadelphia, PA 19104",399,American Restaurant
+839,Saunders & Pearl,Spring Chinese Restaurant,39.96028125745924,-75.19663716049527,"3739 Lancaster Ave, Philadelphia, PA 19104",189,Chinese Restaurant
+841,"18th & Fernon, Aquinas Center",Hardena Waroeng Surabaya Restaurant,39.92837866859552,-75.17120537475252,"1754 S Hicks St (At Moore St), Philadelphia, PA 19145",405,Indonesian Restaurant
+842,"18th & Fernon, Aquinas Center",Miss Rachel's Pantry,39.92665967355938,-75.17379407195511,"1938 S Chadwick St, Philadelphia, PA 19145",469,Vegan and Vegetarian Restaurant
+845,"18th & Fernon, Aquinas Center",Ultimo Coffee,39.926975590245206,-75.17102946437927,"1900 S 15th St (at Mifflin St), Philadelphia, PA 19145",531,Coffee Shop
+849,"18th & Fernon, Aquinas Center",The Dolphin Tavern,39.93059331086254,-75.16821515026264,"1539 S Broad St, Philadelphia, PA 19147",556,Dive Bar
+852,17th & Spring Garden,Kelliann's Bar & Grill,39.963014,-75.164509,"1549 Spring Garden St, Philadelphia, PA 19130",132,Dive Bar
+854,17th & Spring Garden,Kansai,39.96302710496029,-75.16928733955586,"1822 Spring Garden St (18th), Philadelphia, PA 19130",275,Japanese Restaurant
+858,17th & Spring Garden,Doma Japanese Restaurant,39.96052071525839,-75.16919632546524,"1822 Callowhill St, Philadelphia, PA 19130",375,Sushi Restaurant
+867,24th & Jackson,Roc's Place,39.92341308730618,-75.18755292980087,"Philadelphia, PA",219,Bar
+870,27th & Girard,2637Brew,39.97433440252006,-75.18003518604161,"2637 W Girard Ave, Philadelphia, PA 19130",28,American Restaurant
+871,27th & Girard,Lucky Goat Coffee House,39.972487950274584,-75.17935730716006,"888 N 26th St (at Poplar St), Philadelphia, PA 19130",187,Coffee Shop
+874,27th & Girard,Green Eggs Cafe,39.974146568249,-75.18217418068042,"2800 W Girard Ave (28’th Street), Philadelphia, PA 19130",176,Restaurant
+876,27th & Girard,Lemon Tree,39.974089083514066,-75.17980319622981,"2629 W Girard Ave, Philadelphia, PA 19130",25,Caribbean Restaurant
+879,27th & Girard,The Monkey & The Elephant,39.974650944424695,-75.18298099951868,"2831 W Girard Ave (28th St), Philadelphia, PA 19130",253,Café
+880,48th & Baltimore,Vientiane Café,39.948471433551205,-75.21794011499348,"4728 Baltimore Ave (at S 47th St), Philadelphia, PA 19143",11,Asian Restaurant
+881,48th & Baltimore,Vietnam Cafe,39.94808268068866,-75.21707201589001,"816 S 47th St (at Baltimore Ave), Philadelphia, PA 19143",94,Vietnamese Restaurant
+883,48th & Baltimore,Dahlak,39.948476050383285,-75.21731411136051,"4708 Baltimore Ave (at S 47th St), Philadelphia, PA 19143",64,Ethiopian Restaurant
+886,48th & Baltimore,Loco Pez,39.94887109758731,-75.21684101326935,"4631 Baltimore Ave (47th and Baltimore), Philadelphia, PA 19143",114,Mexican Restaurant
+888,48th & Baltimore,Aksum,39.94882,-75.216401,"4630 Baltimore Ave, Philadelphia, PA 19143",148,Middle Eastern Restaurant
+890,48th & Spruce,48th Street Grille,39.95313781948139,-75.21853754632862,"310 S 48th St, Philadelphia, PA 19143",70,Caribbean Restaurant
+891,48th & Spruce,ReAnimator Coffee,39.95256312485849,-75.21678003135392,"4705 Pine St (47th and Pine), Philadelphia, PA 19143",180,Coffee Shop
+893,48th & Spruce,J & P Seafood,39.95344152039614,-75.21898734361108,"4820 Spruce St, Philadelphia, PA 19139",70,Seafood Restaurant
+894,48th & Spruce,Great Taste,39.95370564642603,-75.21935733686071,"4843 Spruce St (At Hanson St), Philadelphia, PA 19139",94,Chinese Restaurant
+897,48th & Spruce,Saad's Halal Restaurant,39.954964,-75.21185,"4500 Walnut St (at 45th St), Philadelphia, PA 19139",562,Middle Eastern Restaurant
+898,48th & Spruce,Aksum,39.94882,-75.216401,"4630 Baltimore Ave, Philadelphia, PA 19143",567,Middle Eastern Restaurant
+902,17th & Pine,Midnight Iris,39.94522275798762,-75.17064162388888,"1708 Lombard St (17th St), Philadelphia, PA 19146",142,American Restaurant
+903,17th & Pine,SouthGate,39.945551,-75.171765,"1801 Lombard St (at 18th St), Philadelphia, PA 19146",188,Korean Restaurant
+906,17th & Pine,Miles Table,39.9441109645887,-75.16946233597885,"1620 South St (btwn 16th St & 17th St), Philadelphia, PA 19146",248,Café
+908,17th & Pine,Kei Sushi Restaurant,39.944421063946265,-75.1706332846826,"1711 South St, Philadelphia, PA 19146",223,Sushi Restaurant
+909,17th & Pine,Via Locusta,39.9489379,-75.1702705,"1723 Locust St, Philadelphia, PA 19103",292,Italian Restaurant
+914,11th & South,Chapterhouse Cafe & Gallery,39.94182815564492,-75.1573325427228,"620 S 9th St (at Bainbridge St.), Philadelphia, PA 19147",226,Coffee Shop
+915,11th & South,Good Karma Cafe,39.94467167210889,-75.15797234416873,"928 Pine St (at 10th St), Philadelphia, PA 19107",233,Café
+916,11th & South,Jiggy Coffee,39.944622,-75.158345,"1000 Pine St (10th St), Philadelphia, PA 19107",212,Coffee Shop
+921,"52nd & Larchwood, Malcolm X Park",Brown Sugar Bakery & Cafe,39.956472693718695,-75.22550884791522,"219 S 52nd St (at Chancellor St.), Philadelphia, PA 19139",474,Caribbean Restaurant
+922,"52nd & Larchwood, Malcolm X Park",Cottons Place,39.95428173402261,-75.2263958751526,"310 S 52nd St, Philadelphia, PA 19143",225,Restaurant
+923,"52nd & Larchwood, Malcolm X Park",Booker's Restaurant & Bar,39.947997946731576,-75.22430911859367,"5021 Baltimore Ave (51st St.), Philadelphia, PA 19143",504,Southern Food Restaurant
+926,"52nd & Larchwood, Malcolm X Park",Satellite Cafe,39.94783793467308,-75.22271117503848,"701 S 50th St (49th Street), Philadelphia, PA 19143",580,Café
+928,"52nd & Larchwood, Malcolm X Park",Hibiscus Cafe,39.948471215129544,-75.22171697401616,"4907 Catharine St (at Baltimore Ave), Philadelphia, PA 19143",577,Juice Bar
+929,"52nd & Larchwood, Malcolm X Park",48th Street Grille,39.95313781948139,-75.21853754632862,"310 S 48th St, Philadelphia, PA 19143",674,Caribbean Restaurant
+930,12th & Walnut,Rice & Mix,39.9489910436543,-75.16071199575383,"1207 Walnut St (at 12th St), Philadelphia, PA 19107",8,Korean Restaurant
+931,12th & Walnut,Masala Kitchen : Kati Rolls & Platters,39.94899037353924,-75.16101962283194,"1211 Walnut St (12th Street), Philadelphia, PA 19107",17,Indian Restaurant
+932,12th & Walnut,Caribou Cafe,39.94886601581022,-75.16033093532877,"1126 Walnut St, Philadelphia, PA 19107",43,French Restaurant
+933,12th & Walnut,Xiandu Thai Fusion Cuisine,39.94889301751464,-75.16001107882347,"1119 Walnut St (at 11th St), Philadelphia, PA 19107",69,Thai Restaurant
+937,12th & Walnut,Bike Stop,39.948385489198266,-75.16027500167795,"206 S Quince St (btwn Walnut & Locust St), Philadelphia, PA 19107",82,Gay Bar
+938,12th & Walnut,Charlie was a sinner.,39.949493,-75.16179,"131 S 13th St, Philadelphia, PA 19107",99,Vegan and Vegetarian Restaurant
+939,12th & Walnut,Aki Nom Nom Sushi & Ramen,39.948983803224856,-75.16116292177637,"1210 Walnut St, Philadelphia, PA 19107",30,Sushi Restaurant
+944,30th & Reed,Roscoe's Seafood,39.93794241377423,-75.19631247618551,"3127 Wharton St, Philadelphia, PA 19146",238,Seafood Restaurant
+946,30th & Reed,Korea Taqueria,39.934205927262866,-75.19615718950621,"3101 Tasker St (S 31st St), Philadelphia, PA 19145",276,Korean Restaurant
+963,Foglietta Plaza,Liberty Point,39.945906,-75.140135,"211 S Columbus Blvd, Philadelphia, PA 19106",220,American Restaurant
+964,Foglietta Plaza,The Olde Bar,39.946785,-75.14383,"125 Walnut St (at 2nd St), Philadelphia, PA 19106",219,Cocktail Bar
+965,Foglietta Plaza,Zahav,39.946336958922934,-75.14506448469714,"237 Saint James Pl (at Dock St), Philadelphia, PA 19106",258,Israeli Restaurant
+968,Foglietta Plaza,Positano Coast by Aldo Lamberti,39.946803446288506,-75.14494694530335,"212 Walnut St Fl 2 (2nd St), Philadelphia, PA 19106",282,Italian Restaurant
+979,22nd & Sedgley,Warfields,39.99628984736007,-75.17094413758579,"Philadelphia, PA",437,Coffee Shop
+984,9th & Spring Garden,W/N W/N,39.96183341166432,-75.15411471109576,"931 Spring Garden St, Philadelphia, PA 19123",151,Café
+991,6th & Girard,Tiffin,39.970424014721544,-75.14873063681557,"710 W Girard Ave (Btwn N 7th & N Marshall St), Philadelphia, PA 19123",179,Indian Restaurant
+992,6th & Girard,Taco Riendo,39.971460413774864,-75.14467287666268,"1301 N 5th St (at Thompson St.), Philadelphia, PA 19122",225,Taco Restaurant
+993,6th & Girard,Reggae Reggae Vibes,39.97054979007049,-75.14559342821238,"517 W Girard Ave, Philadelphia, PA 19123",102,Caribbean Restaurant
+994,6th & Girard,Helm,39.971552051326896,-75.14453863761928,"1303 N 5th St (at W Thompson St), Philadelphia, PA 19122",240,New American Restaurant
+1001,4th & Washington,Taco Loco,39.933714627939445,-75.15112104387676,"400 Washington Ave, Philadelphia, PA 19147",36,Taco Restaurant
+1002,4th & Washington,Pho Ha,39.93452898735517,-75.15406084783416,"610 Washington Ave Unit 2 (at 6th St), Philadelphia, PA 19147",272,Vietnamese Restaurant
+1003,4th & Washington,Herman's Coffee,39.9313524000752,-75.14967517493986,"1313 S 3rd St, Philadelphia, PA 19147",314,Coffee Shop
+1004,4th & Washington,Ba Le Bakery,39.93513415417073,-75.15434171861877,"606 Washington Ave (at 6th St), Philadelphia, PA 19147",315,Vietnamese Restaurant
+1008,4th & Washington,Tamalex Restaurant,39.934028604511255,-75.15556832093695,"1163 S 7th St (Federal St), Philadelphia, PA 19147",394,Latin American Restaurant
+1009,4th & Washington,Shot Tower Coffee,39.93772458280365,-75.15323623233851,"542 Christian St (at 6th St), Philadelphia, PA 19147",456,Coffee Shop
+1010,12th & Passyunk,Barcelona Wine Bar,39.9281464781688,-75.1652573411045,"1709 E Passyunk Ave, Philadelphia, PA 19148",9,Tapas Restaurant
+1012,12th & Passyunk,Cantina Los Caballitos,39.9289,-75.164463,"1651 E Passyunk Ave (at Morris St), Philadelphia, PA 19148",102,Mexican Restaurant
+1014,12th & Passyunk,Stogie Joe's Tavern,39.927624266581205,-75.1660954139815,"1801 E Passyunk Ave, Philadelphia, PA 19148",98,Karaoke Bar
+1019,12th & Passyunk,Laurel,39.929557755155635,-75.16378392692621,"1617 E Passyunk Ave, Philadelphia, PA 19148",195,French Restaurant
+1020,"40th & Baltimore, Trolley Portal",Renata's Kitchen,39.949588775634766,-75.20314025878906,"3940 Baltimore Ave (40th St), Philadelphia, PA 19104",44,Mediterranean Restaurant
+1022,"40th & Baltimore, Trolley Portal",Copabanana,39.9516077742134,-75.20315443407293,"4000 Spruce St (at 40th St), Philadelphia, PA 19104",188,Mexican Restaurant
+1028,"40th & Baltimore, Trolley Portal",HipCityVeg,39.95354777130988,-75.2026360924769,"214 S 40th St, Philadelphia, PA 19104",402,Vegan and Vegetarian Restaurant
+1031,18th & Christian,Miles Table,39.9441109645887,-75.16946233597885,"1620 South St (btwn 16th St & 17th St), Philadelphia, PA 19146",441,Café
+1033,18th & Christian,Kei Sushi Restaurant,39.944421063946265,-75.1706332846826,"1711 South St, Philadelphia, PA 19146",429,Sushi Restaurant
+1036,18th & Christian,Indian Restaurant,39.94403,-75.16995,"1634 South St, Philadelphia, PA 19146",412,North Indian Restaurant
+1037,18th & Christian,Tio Flores,39.94403282305938,-75.16889841583622,"1600 South St (S 16th St), Philadelphia, PA 19146",462,Mexican Restaurant
+1038,18th & Christian,Bistro Southeast,39.944336898163556,-75.17286356949793,"1824 South St, Philadelphia, PA 19146",399,Asian Restaurant
+1039,18th & Christian,Jet Wine Bar,39.94405195242865,-75.16801364114593,"1525 South St (btwn 15th & 16th Sts), Philadelphia, PA 19146",514,Wine Bar
+1042,15th & Kitty Hawk,Jharoka,39.88817075783327,-75.17810682132053,"5000 S Broad St, Philadelphia, PA 19112",226,Coffee Shop
+1051,Pencoyd Bridge,The Landing Kitchen,40.01651447445353,-75.21439254283905,"617 Righters Ferry Rd, Bala Cynwyd, PA 19004",170,Café
+1052,Pencoyd Bridge,Lark,40.01652269123019,-75.21437108516693,"615 Righters Ferry Rd, Bala Cynwyd, PA 19004",168,Mediterranean Restaurant
+1068,33rd & Reservoir,iMunch Cafe,39.97585990634777,-75.18637151525799,"1233 N 31st St, Philadelphia, PA 19121",712,Café
+1069,33rd & Reservoir,Fairmount Drum Circle,39.976897484358204,-75.19107072592767,"Philadelphia, PA",606,Bar
+1070,"8th & Mifflin, Bok Building",Bok Bar,39.92519804986581,-75.16001330182775,"1901 S 9th St (btwn Mifflin & Dudley Sts), Philadelphia, PA 19148",49,Rooftop Bar
+1071,"8th & Mifflin, Bok Building",Irwin’s,39.925020407353884,-75.16014931440068,"800 Mifflin St (at Dudley St), Philadelphia, PA 19148",70,Italian Restaurant
+1073,"8th & Mifflin, Bok Building",Two Persons,39.924876649956374,-75.15971894185697,"821 Dudley St, Philadelphia, PA 19148",65,Coffee Shop
+1079,"8th & Mifflin, Bok Building",Happy Garden Chinese Food,39.924368563991706,-75.1608405752021,"9th St and McKean St, Philadelphia, PA 19148",163,Chinese Restaurant
+1081,25th & Locust,Ambrosia Ristorante BYOB,39.949964492464765,-75.17958806413459,"231 S 24th St, Philadelphia, PA 19103",120,Italian Restaurant
+1086,25th & Locust,Rosy's Taco Bar,39.95110946130918,-75.17851029130975,"2220 Walnut St, Philadelphia, PA 19103",258,Taco Restaurant
+1089,25th & Locust,Trattoria Carina,39.94873942033822,-75.17804745356825,"2201 Spruce St (22nd St), Philadelphia, PA 19103",272,Italian Restaurant
+1092,Broad & Girard,Cameron's Seafood,39.9706452560659,-75.16013916420667,"1600 Fairmount Ave (16th & Fairmount), Philadelphia, PA 19130",104,Seafood Restaurant
+1096,Broad & Girard,Libertee Grounds,39.971599334023246,-75.16321131961746,"1600 W Girard Ave, Philadelphia, PA 19130",279,Beer Bar
+1098,Broad & Girard,Vineyards Cafe,39.96984341458582,-75.1629700916429,"847 N 16th St, Philadelphia, PA 19130",322,Coffee Shop
+1099,Broad & Girard,Lorraine,39.96799374905181,-75.16237877250926,"1502 Brown St, Philadelphia, PA 19130",448,Bar
+1100,2nd & Brown,Circles Contemporary Thai,39.96336864566448,-75.1409057208259,"812 N 2nd St (at Poplar St), Philadelphia, PA 19123",37,Thai Restaurant
+1103,2nd & Brown,Druid's Keep,39.9628465125504,-75.14002461342288,"149 Brown St, Philadelphia, PA 19123",84,Bar
+1104,2nd & Brown,Bourbon & Branch,39.96207900303526,-75.14112050217588,"705 N 2nd St, Philadelphia, PA 19123",107,Restaurant
+1110,4th & Wood,Radicchio Cafe,39.95663658958185,-75.14609482694472,"314 York Ave (4th Street), Philadelphia, PA 19106",31,Italian Restaurant
+1113,4th & Wood,Kisso Sushi Bar,39.95427766849037,-75.1464039502837,"205 N 4th St (4th & Race), Philadelphia, PA 19106",278,Sushi Restaurant
+1114,4th & Wood,Cafe Ole,39.953501708943776,-75.14485180486929,"147 N 3rd St (at Quarry St.), Philadelphia, PA 19106",366,Coffee Shop
+1115,4th & Wood,Race Street Cafe,39.95382321606454,-75.14332550924263,"208 Race St, Philadelphia, PA 19106",383,Bar
+1117,4th & Wood,United By Blue Coffeehouse and Clothier,39.953862,-75.143,"144 N 2nd St (at Race St), Philadelphia, PA 19106",395,Coffee Shop
+1118,4th & Wood,La Locanda Del Ghiottone,39.95304470547211,-75.14512461415435,"130 N 3rd St (at Cherry St), Philadelphia, PA 19106",412,Italian Restaurant
+1119,4th & Wood,Tuna Bar,39.95400750703029,-75.14320998562664,"205 Race St, Philadelphia, PA 19106",371,Sushi Restaurant
+1121,4th & Christian,Kawaii Kitty Cafe,39.9386339371377,-75.14967150086848,"759 S 4th St, Philadelphia, PA 19147",187,Café
+1122,4th & Christian,New Wave Cafe,39.938004106979626,-75.1484431931029,"784 S 3rd St (at Catherine St), Philadelphia, PA 19147",196,Sports Bar
+1124,4th & Christian,Shot Tower Coffee,39.93772458280365,-75.15323623233851,"542 Christian St (at 6th St), Philadelphia, PA 19147",254,Coffee Shop
+1128,4th & Christian,Royal Sushi & Izakaya,39.938008678666115,-75.14640796478119,"780 S 2nd St, Philadelphia, PA 19147",355,Japanese Restaurant
+1131,Broad & Passyunk ,Ristorante Pesto,39.92633847119804,-75.16918073650385,"1915 S Broad St (btwn McKean St & Mifflin St), Philadelphia, PA 19148",91,Italian Restaurant
+1133,Broad & Passyunk ,Le Virtù,39.926044241224766,-75.16788506398544,"1927 E Passyunk Ave, Philadelphia, PA 19148",114,Italian Restaurant
+1134,Broad & Passyunk ,Pistolas Del Sur,39.92580469120962,-75.16863792793261,"1934 E Passyunk Ave, Philadelphia, PA 19148",46,Mexican Restaurant
+1137,Broad & Passyunk ,Green Olives Cafe,39.92563545710998,-75.168356342766,"1941 E Passyunk Ave (Juniper Street), Philadelphia, PA 19148",59,Mediterranean Restaurant
+1138,Broad & Passyunk ,Fuel,39.92633186526494,-75.16766362535178,"1917 E Passyunk Ave (Mifflin St.), Philadelphia, PA 19148",147,New American Restaurant
+1139,Broad & Passyunk ,Stargazy,39.92679571550138,-75.16735612833608,"1838 E Passyunk Ave (Mifflin), Philadelphia, PA 19148",201,English Restaurant
+1142,49th & Chester,Little Delicious,39.94160911885587,-75.2123705788031,"4821 Woodland Ave, Philadelphia, PA 19143",388,Caribbean Restaurant
+1143,49th & Chester,Vietnam Cafe,39.94808268068866,-75.21707201589001,"816 S 47th St (at Baltimore Ave), Philadelphia, PA 19143",497,Vietnamese Restaurant
+1149,49th & Chester,Vientiane Café,39.948471433551205,-75.21794011499348,"4728 Baltimore Ave (at S 47th St), Philadelphia, PA 19143",557,Asian Restaurant
+1153,5th & Willow,Starbucks,39.96034,-75.147671,"456 N 5th St, Philadelphia, PA 19123",99,Coffee Shop
+1155,5th & Willow,Radicchio Cafe,39.95663658958185,-75.14609482694472,"314 York Ave (4th Street), Philadelphia, PA 19106",334,Italian Restaurant
+1160,Cobbs Creek & Florence,Beaumont lounge,39.93845436383958,-75.23198449448063,"5800 beaumont ave, Philadelphia, PA 19143",170,Bar
+1163,Cobbs Creek & Florence,Maggiano's Little Italy,39.93988425344308,-75.24071942130995,"8500 Essington Ave, Philadelphia, PA 19153",642,Italian Restaurant
+1165,Cobbs Creek & Florence,Freak a leaks,39.94061060902744,-75.23711257114896,"Philadelphia, PA 19143",432,Bar
+1166,Cobbs Creek & Florence,Kim's,39.935740935791806,-75.22884102774584,"Philadelphia, PA 19143",470,American Restaurant
+1170,11th & Wood,The Trestle Inn,39.95884296625862,-75.15666079997288,"339 N 11th St (at Callowhill St), Philadelphia, PA 19107",74,Whisky Bar
+1171,11th & Wood,Elixr Coffee Roasters,39.95815106712113,-75.15818075361338,"315 N 12th St, Philadelphia, PA 19107",127,Coffee Shop
+1172,11th & Wood,Vietnam Restaurant,39.95630013182966,-75.15731786783043,"221 N 11th St, Philadelphia, PA 19107",214,Vietnamese Restaurant
+1180,50th & Baltimore,Satellite Cafe,39.94783793467308,-75.22271117503848,"701 S 50th St (49th Street), Philadelphia, PA 19143",25,Café
+1182,50th & Baltimore,Booker's Restaurant & Bar,39.947997946731576,-75.22430911859367,"5021 Baltimore Ave (51st St.), Philadelphia, PA 19143",112,Southern Food Restaurant
+1184,50th & Baltimore,Hibiscus Cafe,39.948471215129544,-75.22171697401616,"4907 Catharine St (at Baltimore Ave), Philadelphia, PA 19143",131,Juice Bar
+1191,12th & Filbert,Maggiano's,39.95292160797807,-75.16006826781546,"1201 Filbert St (at 12th St.), Philadelphia, PA 19107",31,Italian Restaurant
+1196,12th & Filbert,Little Thai Market,39.953232768854384,-75.15927221109645,"51 N 12th St # 39 (at Filbert), Philadelphia, PA 19107",71,Thai Restaurant
+1198,12th & Filbert,Four Seasons Juice Bar,39.95341306070958,-75.15959480031424,"12th and Filbert, Philadelphia, PA 19107",77,Juice Bar
+1201,36th & Sansom,Dig,39.953711867797736,-75.19500879004374,"140 S 36th St, Philadelphia, PA 19104",21,Vegan and Vegetarian Restaurant
+1203,36th & Sansom,Louie Louie,39.953459,-75.196005,"3611 Walnut St, Philadelphia, PA 19104",110,Restaurant
+1204,36th & Sansom,Pod,39.95397077351332,-75.19603698857105,"3600 Sansom St (btw 36th & 37th), Philadelphia, PA 19104",107,Asian Restaurant
+1206,36th & Sansom,"Ochatto Hand Drawn Noodles, Japanese Cuisine & Bubble Tea",39.95461083295415,-75.1950536713487,"3608 Chestnut St, Philadelphia, PA 19104",92,Japanese Restaurant
+1209,36th & Sansom,White Dog Cafe University City,39.95354810000001,-75.1929486,"3420 Sansom St, Philadelphia, PA 19104",159,American Restaurant
+1210,23rd & Fairmount,Zorba's Tavern,39.96729520762904,-75.1749246870816,"2230 Fairmount Ave, Philadelphia, PA 19130",20,Greek Restaurant
+1211,23rd & Fairmount,A Mano,39.96713333117579,-75.17527112771288,"2244 Fairmount Ave, Philadelphia, PA 19130",38,Italian Restaurant
+1212,23rd & Fairmount,La Calaca Feliz,39.96763782322356,-75.17608745039246,"2321 Fairmount Ave (btwn 23rd St & 24th St), Philadelphia, PA 19130",89,Mexican Restaurant
+1215,23rd & Fairmount,The Bishop's Collar,39.96743480965734,-75.17697414917197,"2349 Fairmount Ave (at 24th St), Philadelphia, PA 19130",162,Bar
+1219,23rd & Fairmount,Luigi's Pizza Fresca,39.96733923741146,-75.17700588849584,"2401 Fairmount Ave (at 24th St), Philadelphia, PA 19130",165,Italian Restaurant
+1230,16th & Arch,Capriccio Cafe,39.95528463080057,-75.16668257276343,"110 N 16th St (at Benjamin Franklin Pkwy), Philadelphia, PA 19102",41,Café
+1233,16th & Arch,Amuse at Le Meridien,39.954303678615744,-75.16429148186037,"1421 Arch St, Philadelphia, PA 19102",192,French Restaurant
+1238,16th & Arch,Sweetgreen,39.95310123375468,-75.16731901107282,"1601 Market St (16th Street), Philadelphia, PA 19103",255,Salad Restaurant
+1240,50th & Woodland,Little Delicious,39.94160911885587,-75.2123705788031,"4821 Woodland Ave, Philadelphia, PA 19143",239,Caribbean Restaurant
+1245,50th & Woodland,State Burners,39.938805127469706,-75.21579977974152,"Philadelphia, PA 19143",209,Bar
+1253,"18th & Washington, Chew Playground",American Sardine Bar,39.93666364893693,-75.17358814869525,"1800 Federal St (at 18th St), Philadelphia, PA 19146",194,Bar
+1254,"18th & Washington, Chew Playground",L'Anima,39.939471000000005,-75.17119100000001,"1001 S 17th St (Carpenter), Philadelphia, PA 19146",213,Italian Restaurant
+1260,7th & Passyunk,Taco Heart,39.936336388889,-75.15532847435854,"1001 E Passyunk Ave, Philadelphia, PA 19147",7,Taco Restaurant
+1262,7th & Passyunk,Grace and Proper,39.937201,-75.156566,"941 S 8th St, Philadelphia, PA 19147",143,Cocktail Bar
+1263,7th & Passyunk,Ba Le Bakery,39.93513415417073,-75.15434171861877,"606 Washington Ave (at 6th St), Philadelphia, PA 19147",159,Vietnamese Restaurant
+1265,7th & Passyunk,Cafe Diem,39.93613817570889,-75.15693366921008,"1031 S 8th St (8th St. and Washington Ave), Philadelphia, PA 19147",145,Vietnamese Restaurant
+1269,7th & Passyunk,The Dive Bar,39.93690979752167,-75.15489846073878,"947 E Passyunk Ave (at 7th St.), Philadelphia, PA 19147",66,Dive Bar
+1271,"Broad & Ontario, Temple Hospital",Caribbean Feast Cuisine,40.003221357986114,-75.15167280983864,"1338 Rising Sun Ave (Broad St.), Philadelphia, PA 19140",201,Caribbean Restaurant
+1272,"Broad & Ontario, Temple Hospital",Starbucks,40.00451877764395,-75.15274549806354,"3340 N Broad St, Philadelphia, PA 19140",60,Coffee Shop
+1279,"Broad & Ontario, Temple Hospital",Saffron Indian Cuisine,40.002319138072394,-75.15263697152251,"3240 N Broad St, Philadelphia, PA 19140",294,Indian Restaurant
+1289,Race Street Pier,Ristorante La Veranda,39.951126328951005,-75.14018926636767,"30 N Christopher Columbus Blvd, Philadelphia, PA 19106",287,Italian Restaurant
+1294,7th & Dickinson,Benna's Cafe,39.932903526889746,-75.15758664575547,"1236 S 8th St (at Wharton St), Philadelphia, PA 19147",318,Coffee Shop
+1295,7th & Dickinson,Grindcore House,39.92905783936221,-75.15194336145605,"1515 S 4th St (Greenwich), Philadelphia, PA 19147",397,Coffee Shop
+1296,7th & Dickinson,Fountain Porter,39.92958942263536,-75.16142437284805,"1601 S 10th St (at Tasker St), Philadelphia, PA 19148",436,Bar
+1297,7th & Dickinson,Grumpy's Tavern,39.929800808337745,-75.15979313861017,"1525 S 9th St, Philadelphia, PA 19147",295,Dive Bar
+1298,7th & Dickinson,Triangle Tavern,39.93220277721176,-75.16108015655877,"1338 S 10th St, Philadelphia, PA 19147",459,Bar
+1311,8th & Market,Morimoto,39.949607,-75.153344,"723 Chestnut St (at 7th St), Philadelphia, PA 19106",197,Japanese Restaurant
+1316,8th & Market,Bubblefish,39.95345457284423,-75.15515705141259,"909 Arch St, Philadelphia, PA 19107",264,Sushi Restaurant
+1317,8th & Market,QT Vietnamese Sandwich,39.95319482483924,-75.156397939643,"48 N 10th St (btw Arch St & Filbert St), Philadelphia, PA 19107",278,Vietnamese Restaurant
+1318,8th & Market,EMei Restaurant,39.953607844040114,-75.15543428390275,"915 Arch St, Philadelphia, PA 19107",286,Chinese Restaurant
+1319,8th & Market,Oishii Poke,39.95325279099334,-75.1561913482706,"938 Arch St, Philadelphia, PA 19107",274,Poke Restaurant
+1321,7th & South,Brauhaus Schmitz,39.94217699094252,-75.15466697508847,"718 South St (at 8th St), Philadelphia, PA 19147",60,German Restaurant
+1322,7th & South,Vegan Tree,39.942135237513604,-75.1546661217999,"742 South St, Philadelphia, PA 19147, Philadelphia, PA 19147",61,Vegan and Vegetarian Restaurant
+1326,7th & South,Chapterhouse Cafe & Gallery,39.94182815564492,-75.1573325427228,"620 S 9th St (at Bainbridge St.), Philadelphia, PA 19147",290,Coffee Shop
+1327,7th & South,Angelina's,39.940276661299535,-75.15575145029139,"743 S 8th St, Philadelphia, PA 19147",274,Italian Restaurant
+1338,"Ridge & Pensdale, Kendrick Recreation Center",Henry James Saloon,40.029182006025586,-75.20682059223898,"577 Jamestown St, Philadelphia, PA 19128",375,American Restaurant
+1340,38th & Market,Han Dynasty University City,39.95658634457237,-75.19707468846718,"3711 Market St, Philadelphia, PA 19104",131,Szechuan Restaurant
+1341,38th & Market,The Creative Café @ Replica,39.95663409397115,-75.1969176744191,"3711 Chestnut St., Philadelphia, PA 19104",145,Coffee Shop
+1343,38th & Market,Corner Bakery Cafe,39.956685812190706,-75.19696402120832,"3737 Market St, Philadelphia, PA 19104",141,American Restaurant
+1344,38th & Market,Ochatto Hotpot,39.955331003147634,-75.1974355719883,"3717 Chestnut St, Philadelphia, PA 19104",175,Hotpot Restaurant
+1347,38th & Market,Dim Sum House by Jane G's,39.95573081701866,-75.20180941375598,"3939 Chestnut St (40th and Chestnut), Philadelphia, PA 19104",289,Chinese Restaurant
+1349,38th & Market,Sitar India Restaurant,39.95531864138066,-75.19850189776636,"60 S 38th St (btwn Ludlow & Chestnut), Philadelphia, PA 19104",144,Indian Restaurant
+1350,Front & Carpenter,For Pete's Sake,39.93556320232765,-75.14532308457342,"900 S Front St (Christian St), Philadelphia, PA 19147",123,American Restaurant
+1354,Front & Carpenter,Pho Saigon,39.93282996296366,-75.14423914387288,"1100 S Columbus Blvd (at Washington Ave.), Philadelphia, PA 19147",205,Vietnamese Restaurant
+1357,Front & Carpenter,Philadelphia Java Company,39.93610510483682,-75.14690020243661,"852 S 2nd St (at Christian St), Philadelphia, PA 19147",223,Coffee Shop
+1359,Front & Carpenter,Ginza Sushi and Ramen,39.93245662597854,-75.14618406744918,"1100 S Front St, Philadelphia, PA 19147",231,Japanese Restaurant
+1363,45th & Baltimore,Queen of Sheba,39.94905241139346,-75.2134768092868,"4511 Baltimore Ave (at 45th St), Philadelphia, PA 19143",59,Bar
+1364,45th & Baltimore,Gojjo,39.948912099715514,-75.21414135614643,"4540 Baltimore Ave, Philadelphia, PA 19143",116,Ethiopian Restaurant
+1365,45th & Baltimore,Desi Village Indian Restaurant,39.94907913423346,-75.21418853738255,"4527 Baltimore Ave (between 45th and 46th), Philadelphia, PA 19143",120,Indian Restaurant
+1368,45th & Baltimore,Aksum,39.94882,-75.216401,"4630 Baltimore Ave, Philadelphia, PA 19143",309,Middle Eastern Restaurant
+1372,20th & Fairmount,Fare,39.96727297568081,-75.17119292320437,"2028 Fairmount Ave (btw 20th St. & 21st St.), Philadelphia, PA 19130",101,American Restaurant
+1377,20th & Fairmount,OCF Coffee House,39.96729012123354,-75.17246540185172,"2100 Fairmount Ave (at 21st St.), Philadelphia, PA 19130",209,Coffee Shop
+1385,24th & Pennsylvania ,The Bishop's Collar,39.96743480965734,-75.17697414917197,"2349 Fairmount Ave (at 24th St), Philadelphia, PA 19130",205,Bar
+1387,24th & Pennsylvania ,La Calaca Feliz,39.96763782322356,-75.17608745039246,"2321 Fairmount Ave (btwn 23rd St & 24th St), Philadelphia, PA 19130",256,Mexican Restaurant
+1389,24th & Pennsylvania ,A Mano,39.96713333117579,-75.17527112771288,"2244 Fairmount Ave, Philadelphia, PA 19130",260,Italian Restaurant
+1391,30th Street Station East,Taco Bell,39.955681,-75.181949,"2951 Market St, Philadelphia, PA 19104",127,Fast Food Restaurant
+1392,30th Street Station East,Beck's Cajun Cafe,39.95544178975986,-75.18215844362064,"2955 Market St, Philadelphia, PA 19104",124,Cajun and Creole Restaurant
+1430,18th & Walnut,The Love,39.95077944503111,-75.17090857028961,"130 S 18th St (Sansom), Philadelphia, PA 19103",62,New American Restaurant
+1432,18th & Walnut,A.Bar,39.95018,-75.170581,"135 S 18th St, Philadelphia, PA 19103",59,Cocktail Bar
+1434,18th & Walnut,The Dandelion,39.951038522168545,-75.17068929970264,"124 S 18th St (at Sansom St), Philadelphia, PA 19103",96,English Restaurant
+1435,18th & Walnut,HipCityVeg,39.950802,-75.170486,"127 S 18th St (at Sansom St), Philadelphia, PA 19103",87,Vegan and Vegetarian Restaurant
+1437,18th & Walnut,Bar Bombón,39.95066488333507,-75.17056418542035,"133 S 18th St (18th & Moravian), Philadelphia, PA 19103",72,Latin American Restaurant
+1438,18th & Walnut,Rouge,39.949704,-75.17072,"205 S 18th St (btwn Walnut and Locust), Philadelphia, PA 19103",79,Seafood Restaurant
+1439,18th & Walnut,La Colombe Coffee Roasters,39.950775735558906,-75.17227547043973,"130 S 19th St (btwn Sansom & Walnut St), Philadelphia, PA 19103",101,Coffee Shop
+1442,Del. River Trail & Penn St.,Druid's Keep,39.9628465125504,-75.14002461342288,"149 Brown St, Philadelphia, PA 19123",331,Bar
+1446,Del. River Trail & Penn St.,Bourbon & Branch,39.96207900303526,-75.14112050217588,"705 N 2nd St, Philadelphia, PA 19123",402,Restaurant
+1447,Del. River Trail & Penn St.,Jerry's Bar,39.96510109416032,-75.138906973813,"129 W Laurel St (at New Market), Philadelphia, PA 19123",428,Bar
+1451,54th & Cedar,Booker's Restaurant & Bar,39.947997946731576,-75.22430911859367,"5021 Baltimore Ave (51st St.), Philadelphia, PA 19143",612,Southern Food Restaurant
+1455,54th & Cedar,Brown Sugar Bakery & Cafe,39.956472693718695,-75.22550884791522,"219 S 52nd St (at Chancellor St.), Philadelphia, PA 19139",736,Caribbean Restaurant
+1460,20th & Cuthbert,Thanal Indian Tavern,39.95568425250386,-75.17255870765372,"1939 Arch St, Philadelphia, PA 19103",99,Indian Restaurant
+1462,20th & Cuthbert,Starbucks,39.95335453,-75.1730728,"1900 Market St (at 20th St), Philadelphia, PA 19103",166,Coffee Shop
+1463,20th & Cuthbert,Vernick Coffee Bar,39.9551000022471,-75.17077723145087,"1800 Arch St, Philadelphia, PA 19103",189,Coffee Shop
+1466,20th & Cuthbert,Vernick Fish,39.955296,-75.170268,"1 N 19th St, Philadelphia, PA 19103",236,Seafood Restaurant
+1467,20th & Cuthbert,JG SkyHigh,39.955001,-75.170112,"1 N 19th St Fl 60, Philadelphia, PA 19103",244,Restaurant
+1472,17th & JFK,Sweetgreen,39.95310123375468,-75.16731901107282,"1601 Market St (16th Street), Philadelphia, PA 19103",114,Salad Restaurant
+1474,17th & JFK,Passero's,39.95504678175522,-75.16791842610488,"Suburban Station, Philadelphia, PA 19123",111,Coffee Shop
+1476,17th & JFK,Capriccio Cafe,39.95528463080057,-75.16668257276343,"110 N 16th St (at Benjamin Franklin Pkwy), Philadelphia, PA 19102",168,Café
+1479,17th & JFK,JG SkyHigh,39.955001,-75.170112,"1 N 19th St Fl 60, Philadelphia, PA 19103",221,Restaurant
+1483,Dornsife Center,Jollie's West,39.96020674442674,-75.19719146840866,"3800 Lancaster Ave (at 38th St), Philadelphia, PA 19104",377,Hookah Bar
+1485,Dornsife Center,Green Line Powelton Village,39.95933659577614,-75.1949809788369,"3649 Lancaster Ave (at 37th St & Powelton Ave), Philadelphia, PA 19104",380,Coffee Shop
+1486,Dornsife Center,Chengdu Famous Food,39.959240689356236,-75.19446254211044,"3635 Lancaster Ave, Philadelphia, PA 19104",386,Chinese Restaurant
+1489,Dornsife Center,Savas Brick Oven Pizza,39.95816477449976,-75.19285437290878,"3505 Lancaster Ave, Philadelphia, PA 19104",517,Bar
+1495,"51st & Regent, Kingsessing Library",Little Delicious,39.94160911885587,-75.2123705788031,"4821 Woodland Ave, Philadelphia, PA 19143",513,Caribbean Restaurant
+1497,"51st & Regent, Kingsessing Library",Wei Chong Wei Chinese Store,39.93937318585777,-75.21772831060565,"1450 S 52nd St, Philadelphia, PA 19143",298,Chinese Restaurant
+1501,3rd & Girard,One Shot Cafe,39.967631,-75.1407,"217 W George St (at American St), Philadelphia, PA 19123",262,Café
+1502,3rd & Girard,3rd & Girard,39.9696209919115,-75.14183511030566,"1176 N 3rd St (W. Girard Ave), Philadelphia, PA 19123",24,Bar
+1504,3rd & Girard,Reanimator Coffee,39.97244167095113,-75.14115157563333,"310 W Master St (at Germantown Ave), Philadelphia, PA 19122",294,Café
+1505,3rd & Girard,Apricot Stone,39.967402573897,-75.14109220678496,"426 W Girard Ave (btwn W George St & W Wildey St), Philadelphia, PA 19123",277,Mediterranean Restaurant
+1507,3rd & Girard,Streetside,39.969526500503,-75.13864599205364,"165 W Girard Ave, Philadelphia, PA 19123",270,Vietnamese Restaurant
+1508,3rd & Girard,Taco Riendo,39.971460413774864,-75.14467287666268,"1301 N 5th St (at Thompson St.), Philadelphia, PA 19122",303,Taco Restaurant
+1509,3rd & Girard,Baan Thai,39.96718594081968,-75.1411644949396,"1030 N American St, Philadelphia, PA 19123",299,Thai Restaurant
+1521,"Spring Garden Station, MFL",The Kettle Black,39.9616757294182,-75.14110110338268,"631 N 2nd St, Philadelphia, PA 19123",165,Coffee Shop
+1522,"Spring Garden Station, MFL",Bourbon & Branch,39.96207900303526,-75.14112050217588,"705 N 2nd St, Philadelphia, PA 19123",206,Restaurant
+1523,"Spring Garden Station, MFL",Seiko Japanese Restaurant,39.96119,-75.14156,"604 N 2nd St (at Green St), Philadelphia, PA 19123",148,Japanese Restaurant
+1524,"Spring Garden Station, MFL",The Bridge,39.959654981893515,-75.13948277614372,"100 Spring Garden St, Philadelphia, PA 19123",99,Bar
+1533,17th & Green,Kelliann's Bar & Grill,39.963014,-75.164509,"1549 Spring Garden St, Philadelphia, PA 19130",187,Dive Bar
+1536,17th & Green,Kansai,39.96302710496029,-75.16928733955586,"1822 Spring Garden St (18th), Philadelphia, PA 19130",330,Japanese Restaurant
+1539,17th & Green,Osteria,39.965029,-75.161056,"640 N Broad St, Philadelphia, PA 19130",412,Italian Restaurant
+1541,"21st & Winter, Franklin Institute",Peddler Coffee,39.9582878249093,-75.17422193303025,"2100 Spring St (at N 21st St), Philadelphia, PA 19103",78,Coffee Shop
+1551,4th & Bainbridge,Southwark,39.940547842044666,-75.14934308574003,"701 S 4th St (at Bainbridge St.), Philadelphia, PA 19147",21,Cocktail Bar
+1556,4th & Bainbridge,OX Coffee,39.94099138360062,-75.14773841446954,"616 S 3rd St (South st), Philadelphia, PA 19147",162,Coffee Shop
+1557,4th & Bainbridge,Marrakesh,39.941949898949986,-75.14954396983812,"517 S Leithgow St (btwn 4th St & 5th St), Philadelphia, PA 19147",148,Moroccan Restaurant
+1558,4th & Bainbridge,Nora's Taqueria & Grill,39.94118073892439,-75.14734003218132,"248 South St (at S 3rd St), Philadelphia, PA 19147",201,Mexican Restaurant
+1559,4th & Bainbridge,Tattooed Mom,39.94186888396725,-75.15188034038363,"530 South St (btw 5th and 6th), Philadelphia, PA 19147",240,Bar
+1560,Fitzwater & Juniper,Quetzally Mexican Food,39.941602357178446,-75.16314433413895,"1225 Fitzwater St (at S 12th St), Philadelphia, PA 19147",159,Mexican Restaurant
+1564,Fitzwater & Juniper,Sawatdee,39.94390919808878,-75.16727502499022,"534 S 15th St (at 15th St), Philadelphia, PA 19146",314,Thai Restaurant
+1565,Fitzwater & Juniper,Bob & Barbara's Cocktail Lounge,39.94398386095084,-75.16757995945206,"1509 South St (at 15th St), Philadelphia, PA 19146",337,Dive Bar
+1566,Fitzwater & Juniper,The Quick Fixx,39.94398018082709,-75.16764468637469,"1511 South St, Philadelphia, PA 19146",340,Italian Restaurant
+1568,Fitzwater & Juniper,Wine Dive,39.94378756484492,-75.16758320379034,"1506 South St (at S 15th St), Philadelphia, PA 19146",321,Wine Bar
+1569,Fitzwater & Juniper,Jet Wine Bar,39.94405195242865,-75.16801364114593,"1525 South St (btwn 15th & 16th Sts), Philadelphia, PA 19146",367,Wine Bar
+1573,25th & Wharton,Madira Bar and Grill,39.935919042089644,-75.17915905287052,"1252 S 21st St, Philadelphia, PA 19146",604,Indian Restaurant
+1577,25th & Wharton,Twin dragon,39.93439816406175,-75.18967876679093,"27th & dickinson, Philadelphia, PA 19146",377,Chinese Restaurant
+1579,25th & Wharton,Krunch Inn,39.935700565815516,-75.19057942879118,"1401 S 28th St (28th and Reed), Philadelphia, PA 19146",383,Bar
+1580,20th & Sansom,Wilder,39.95151033971078,-75.17405428325212,"2009 Sansom St, Philadelphia, PA 19103",21,New American Restaurant
+1582,20th & Sansom,Village Whiskey,39.95128529751654,-75.17364332772435,"118 S 20th St (at Sansom St), Philadelphia, PA 19103",25,Whisky Bar
+1583,20th & Sansom,Vic Sushi Bar,39.95147676145491,-75.17494806114004,"2035 Sansom St, Philadelphia, PA 19103",87,Sushi Restaurant
+1587,20th & Sansom,Vernick Food & Drink,39.950656609366234,-75.17492740552193,"2031 Walnut St (at S 20th St), Philadelphia, PA 19103",113,American Restaurant
+1588,20th & Sansom,Almaz Cafe,39.95067716891859,-75.17380949105907,"140 S 20th St (at Walnut St.), Philadelphia, PA 19103",74,Ethiopian Restaurant
+1589,20th & Sansom,El Rey,39.9522504,-75.1740503,"2013 Chestnut St (at 20th St), Philadelphia, PA 19103",101,Mexican Restaurant
+1590,34th & Arch,Saxbys Coffee,39.957401826691296,-75.19077431569846,"65 N 34th St (at Lancaster Ave), Philadelphia, PA 19104",48,Coffee Shop
+1598,34th & Arch,Savas Brick Oven Pizza,39.95816477449976,-75.19285437290878,"3505 Lancaster Ave, Philadelphia, PA 19104",179,Bar
+1602,"7th & Race, Franklin Square",Terakawa Ramen,39.955403963762315,-75.15440488682123,"204 N 9th St (btwn Race & Spring St), Philadelphia, PA 19107",268,Ramen Restaurant
+1605,"7th & Race, Franklin Square",Sang Kee Peking Duck House,39.95644347292135,-75.15402667490855,"238 N 9th St, Philadelphia, PA 19107",278,Chinese Restaurant
+1607,"7th & Race, Franklin Square",Rays Cafe & Tea House Inc.,39.954662224486576,-75.1544034783728,"141 N 9th St, Philadelphia, PA 19107",270,Asian Restaurant
+1608,"7th & Race, Franklin Square",Bubblefish,39.95345457284423,-75.15515705141259,"909 Arch St, Philadelphia, PA 19107",376,Sushi Restaurant
+1609,"7th & Race, Franklin Square",EMei Restaurant,39.953607844040114,-75.15543428390275,"915 Arch St, Philadelphia, PA 19107",389,Chinese Restaurant
+1617,38th & Spruce,Mexi-Philly,39.95125407502779,-75.19777421614793,"36th & Spruce St, Philadelphia, PA 19104",157,Mexican Restaurant
+1618,38th & Spruce,Just Salad,39.951063108462186,-75.19857889756834,"3728 Spruce St (at S 38th St), Philadelphia, PA 19104",90,Salad Restaurant
+1625,23rd & South,Rival Bros Coffee,39.94653993759493,-75.18068102034958,"2400 Lombard St (at S 24th St), Philadelphia, PA 19146",163,Coffee Shop
+1627,23rd & South,Cafe Lutecia,39.946495276471666,-75.1795368098496,"2301 Lombard St (at 23rd St), Philadelphia, PA 19146",136,Café
+1628,23rd & South,Starbucks,39.945399929737015,-75.17869300145473,"2201 South St, Philadelphia, PA 19146",87,Coffee Shop
+1631,Amtrak 30th Street Station,Gigi's Caribbean Soul Food,39.954351044156,-75.18378310050704,"1-49 S 30th St (at Chestnut St), Philadelphia, PA 19104",62,Southern Food Restaurant
+1634,Amtrak 30th Street Station,Beck's Cajun Cafe,39.95544178975986,-75.18215844362064,"2955 Market St, Philadelphia, PA 19104",121,Cajun and Creole Restaurant
+1635,Amtrak 30th Street Station,Taco Bell,39.955681,-75.181949,"2951 Market St, Philadelphia, PA 19104",152,Fast Food Restaurant
+1640,Broad & Ritner,Scannicchio's,39.919354267886376,-75.17087317296719,"2500 S Broad St, Philadelphia, PA 19145",170,Italian Restaurant
+1641,Broad & Ritner,L'Angolo Ristorante,39.91956206367489,-75.17136297948085,"1415 W Porter St, Philadelphia, PA 19145",166,Italian Restaurant
+1642,Broad & Ritner,Starbucks,39.92252073,-75.16985776,"2201-2219 S Broad St (at Jackson St), Philadelphia, PA 19148",192,Coffee Shop
+1644,Broad & Ritner,D'jakarta Cafe,39.92089747932695,-75.17351075725236,"1540 W Ritner St (16th st & Ritner st), Philadelphia, PA 19145",271,Indonesian Restaurant
+1645,Broad & Ritner,Caffe Chicco,39.91873892774997,-75.17122391682463,"2532 S Broad St (between Porter & Shunk Streets), Philadelphia, PA 19145",244,Café
+1646,Broad & Ritner,SouthHouse,39.91803133431034,-75.1687293334536,"2535 S 13th St (Shunk), Philadelphia, PA 19148",339,Bar
+1648,Broad & Ritner,Johnny Chang's,39.91800539292307,-75.1708331907566,"2601 S Broad St (at W Shunk St), Philadelphia, PA 19148",316,Sushi Restaurant
+1653,Broad & Chestnut,La Colombe Coffee Roasters,39.951659480836746,-75.16523808706552,"1414 S Penn Sq (at S 15th St), Philadelphia, PA 19102",107,Coffee Shop
+1658,Broad & Chestnut,Time,39.94993822300982,-75.1625878724553,"1315 Sansom St (at 13th St), Philadelphia, PA 19107",189,Whisky Bar
+1659,Broad & Chestnut,Oyster House,39.950288,-75.166666,"1516 Sansom St (btw 15th St & 16th St), Philadelphia, PA 19102",208,Seafood Restaurant
+1660,6th & Brown,Pura Vida,39.9636270884807,-75.1476483742907,"527 Fairmount Ave, Philadelphia, PA 19123",51,Latin American Restaurant
+1662,6th & Brown,Cafe La Maude,39.96421025040534,-75.14441952790673,"816 N 4th St (at Reno St), Philadelphia, PA 19123",278,Café
+1672,53rd & Baltimore,Booker's Restaurant & Bar,39.947997946731576,-75.22430911859367,"5021 Baltimore Ave (51st St.), Philadelphia, PA 19143",441,Southern Food Restaurant
+1678,53rd & Baltimore,Satellite Cafe,39.94783793467308,-75.22271117503848,"701 S 50th St (49th Street), Philadelphia, PA 19143",575,Café
+1684,56th & Chestnut,Wendy's,39.96072451003063,-75.23412801464679,"5601 Chestnut St, Philadelphia, PA 19139",133,Fast Food Restaurant
+1686,56th & Chestnut,Hyons 56th & Spruce St,39.95570992194799,-75.23380015912399,"Philadelphia, PA 19139",433,Seafood Restaurant
+1688,56th & Chestnut,Brown Sugar Bakery & Cafe,39.956472693718695,-75.22550884791522,"219 S 52nd St (at Chancellor St.), Philadelphia, PA 19139",767,Caribbean Restaurant
+1689,56th & Chestnut,Top Taste,39.96118545959108,-75.22486763865805,"40 N 52nd St, Philadelphia, PA 19139",759,Caribbean Restaurant
+1693,Broad & Snyder,Pho Cyclo Cafe,39.923802966737696,-75.17017298998394,"2124 S Broad St, Philadelphia, PA 19145",54,Vietnamese Restaurant
+1694,Broad & Snyder,Café y Chocolate,39.924628,-75.17226,"1532 Snyder Ave, Philadelphia, PA 19145",238,Mexican Restaurant
+1695,Broad & Snyder,Starbucks,39.92252073,-75.16985776,"2201-2219 S Broad St (at Jackson St), Philadelphia, PA 19148",165,Coffee Shop
+1696,Broad & Snyder,Hibachi 2 Go,39.924332970375225,-75.17029286697561,"1414 Snyder Ave (at S Broad St), Philadelphia, PA 19145",70,Sushi Restaurant
+1697,Broad & Snyder,Le Virtù,39.926044241224766,-75.16788506398544,"1927 E Passyunk Ave, Philadelphia, PA 19148",269,Italian Restaurant
+1698,Broad & Snyder,Ristorante Pesto,39.92633847119804,-75.16918073650385,"1915 S Broad St (btwn McKean St & Mifflin St), Philadelphia, PA 19148",262,Italian Restaurant
+1701,6th & Master,Taco Riendo,39.971460413774864,-75.14467287666268,"1301 N 5th St (at Thompson St.), Philadelphia, PA 19122",227,Taco Restaurant
+1702,6th & Master,Helm,39.971552051326896,-75.14453863761928,"1303 N 5th St (at W Thompson St), Philadelphia, PA 19122",225,New American Restaurant
+1704,6th & Master,Reanimator Coffee,39.97244167095113,-75.14115157563333,"310 W Master St (at Germantown Ave), Philadelphia, PA 19122",430,Café
+1706,6th & Master,Tiffin,39.970424014721544,-75.14873063681557,"710 W Girard Ave (Btwn N 7th & N Marshall St), Philadelphia, PA 19123",378,Indian Restaurant
+1708,6th & Master,Reggae Reggae Vibes,39.97054979007049,-75.14559342821238,"517 W Girard Ave, Philadelphia, PA 19123",295,Caribbean Restaurant
+1710,Allegheny & Richmond,Donna's Bar,39.9833531974155,-75.1020458930405,"2732 E Allegheny Ave, Philadelphia, PA 19134",89,Bar
+1714,Allegheny & Richmond,The Last Shot,39.983582594528066,-75.10162999030939,"Allegheny (Salmon), Philadelphia, PA ¤19134",86,Bar
+1717,Allegheny & Richmond,Mom Mom’s,39.982202,-75.103106,"3124 Richmond St (E Clementine), Philadelphia, PA 19134",177,Polish Restaurant
+1723,"4th & Walnut, NPS",Zahav,39.946336958922934,-75.14506448469714,"237 Saint James Pl (at Dock St), Philadelphia, PA 19106",342,Israeli Restaurant
+1724,"4th & Walnut, NPS",Talula's Garden,39.94714094280398,-75.15347877070249,"210 W Washington Sq (btwn Walnut St & Locust St), Philadelphia, PA 19106",394,New American Restaurant
+1728,"4th & Walnut, NPS",Spasso Italian Grill,39.94870039431784,-75.14251769263223,"34 S Front St (at Chestnut St), Philadelphia, PA 19106",560,Italian Restaurant
+1729,"4th & Walnut, NPS",Bodhi Coffee,39.94285617341323,-75.14545797458909,"410 S 2nd St (Pine St), Philadelphia, PA 19147",577,Café
+1730,"Welcome Park, NPS",The Olde Bar,39.946785,-75.14383,"125 Walnut St (at 2nd St), Philadelphia, PA 19106",62,Cocktail Bar
+1732,"Welcome Park, NPS",Positano Coast by Aldo Lamberti,39.946803446288506,-75.14494694530335,"212 Walnut St Fl 2 (2nd St), Philadelphia, PA 19106",97,Italian Restaurant
+1733,"Welcome Park, NPS",Glory Beer Bar & Kitchen,39.94821853469077,-75.1435843403267,"126 Chestnut St, Philadelphia, PA 19106",105,Beer Bar
+1734,"Welcome Park, NPS",Zahav,39.946336958922934,-75.14506448469714,"237 Saint James Pl (at Dock St), Philadelphia, PA 19106",141,Israeli Restaurant
+1736,"Welcome Park, NPS",Han Dynasty,39.94845633567079,-75.14381888707953,"123 Chestnut St, Philadelphia, PA 19106",126,Chinese Restaurant
+1737,"Welcome Park, NPS",European Republic,39.94848100323117,-75.14471550531007,"213 Chestnut St, Philadelphia, PA 19106",140,Modern European Restaurant
+1739,"Welcome Park, NPS",Royal Boucherie,39.94867826918429,-75.14408512484212,"52 S 2nd St, Philadelphia, PA 19106",149,French Restaurant
+1741,11th & Reed,Triangle Tavern,39.93220277721176,-75.16108015655877,"1338 S 10th St, Philadelphia, PA 19147",159,Bar
+1742,11th & Reed,The Tasty,39.93232243330674,-75.1639701207112,"1401 S 12th St, Philadelphia, PA 19147",156,Vegan and Vegetarian Restaurant
+1745,11th & Reed,Tiffin Bistro,39.93473682339674,-75.16231901107831,"1100 Federal St, Philadelphia, PA 19147",176,Indian Restaurant
+1753,Girard & Hutchinson,Tiffin,39.970424014721544,-75.14873063681557,"710 W Girard Ave (Btwn N 7th & N Marshall St), Philadelphia, PA 19123",255,Indian Restaurant
+1761,34th & Chestnut,White Dog Cafe University City,39.95354810000001,-75.1929486,"3420 Sansom St, Philadelphia, PA 19104",125,American Restaurant
+1762,34th & Chestnut,Avril 50,39.95353787445384,-75.1925463825956,"3406 Sansom St (at 34th St), Philadelphia, PA 19104",107,Coffee Shop
+1763,34th & Chestnut,New Deck Tavern,39.9535171,-75.1926123,"3408 Sansom St (btwn 34th & 36th St), Philadelphia, PA 19104",112,Restaurant
+1764,34th & Chestnut,Goldie,39.95295591874744,-75.1926238698495,"3401 Walnut St, Philadelphia, PA 19104",170,Falafel Restaurant
+1769,34th & Chestnut,DK Sushi,39.9529913,-75.1922872,"3401 Walnut St, Philadelphia, PA 19104",159,Sushi Restaurant
+1773,Barnes Foundation,Buena Onda,39.96079412914127,-75.17086170326931,"1901 Callowhill St (at 20th St), Philadelphia, PA 19130",125,Mexican Restaurant
+1774,Barnes Foundation,Gyu-Kaku Japanese BBQ,39.96072762984046,-75.17020957431274,"1901 Callowhill St, Philadelphia, PA 19130",168,Japanese Restaurant
+1775,Barnes Foundation,Starbucks,39.96090380255267,-75.17157823062112,"1937 Callowhill St (at N 20th St), Philadelphia, PA 19130",99,Coffee Shop
+1776,Barnes Foundation,Garden Restaurant at The Barnes Foundation,39.960654,-75.172539,"2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130",81,Restaurant
+1780,Crescent Park,Bar Amis,39.89662491763111,-75.17551254494923,"4503 S Broad St, Philadelphia, PA 19112",48,Italian Restaurant
+1788,Crescent Park,The Bistro,39.895431,-75.171926,"1001 Intrepid Ave (League Island Blvd), Philadelphia, PA 19112",290,Coffee Shop
+1799,2nd & Norris,Buzz Cafe,39.977471074816684,-75.13501932584151,"1800 N Howard St, Philadelphia, PA 19122",435,Café
+1800,Broad & Oxford,Honeygrow,39.97742972464794,-75.15751755550048,"1601 N Broad St (Cecil B Moore Ave), Philadelphia, PA 19122",97,Salad Restaurant
+1801,Broad & Oxford,Tropical Smoothie Cafe,39.977931062914465,-75.15840999874148,"1600 N Broad St, Philadelphia, PA 19121",139,Juice Bar
+1803,Broad & Oxford,Pita Chip,39.9780377862915,-75.1584168065293,"1600 N Broad St Ste 7, Philadelphia, PA 19121",151,Mediterranean Restaurant
+1812,23rd & Chestnut,Erawan Thai Cuisine,39.95175967423992,-75.17835023927651,"123 S 23rd St (btw Sansom & Walnut), Philadelphia, PA 19103",113,Thai Restaurant
+1813,23rd & Chestnut,Rosy's Taco Bar,39.95110946130918,-75.17851029130975,"2220 Walnut St, Philadelphia, PA 19103",186,Taco Restaurant
+1817,23rd & Chestnut,Vic Sushi Bar,39.95147676145491,-75.17494806114004,"2035 Sansom St, Philadelphia, PA 19103",277,Sushi Restaurant
+1819,23rd & Chestnut,JJ Thai Cuisine,39.95207282040172,-75.17473535565695,"2028 Chestnut St, Philadelphia, PA 19103",269,Thai Restaurant
+1820,Water & Mifflin,Starbucks,39.923910258106794,-75.14591009783089,"1 Mifflin St, Philadelphia, PA 19148",96,Coffee Shop
+1832,6th & Chestnut,Talula's Garden,39.94714094280398,-75.15347877070249,"210 W Washington Sq (btwn Walnut St & Locust St), Philadelphia, PA 19106",284,New American Restaurant
+1836,6th & Chestnut,Sweetgreen,39.94832076167723,-75.15701806486913,"924 Walnut St (at 10th St), Philadelphia, PA 19107",518,Salad Restaurant
+1838,6th & Chestnut,Zahav,39.946336958922934,-75.14506448469714,"237 Saint James Pl (at Dock St), Philadelphia, PA 19106",574,Israeli Restaurant
+1841,13th & Montgomery,Chick-fil-A,39.97920011096698,-75.15499234199524,"1755 N 13th St, Philadelphia, PA 19122",96,Fast Food Restaurant
+1844,13th & Montgomery,Saladworks,39.9794272,-75.1550024,"1755 N 13th St, Philadelphia, PA 19122",71,Salad Restaurant
+1846,13th & Montgomery,Chipotle Mexican Grill,39.97941177238066,-75.15316936775942,"1100 W Montgomery Ave (at N 11th St), Philadelphia, PA 19122",188,Mexican Restaurant
+1848,13th & Montgomery,Saxby’s Coffee at Alter Hall,39.98012924194336,-75.15599822998047,"1801 Liacouras Walk, Philadelphia, PA 19122",66,Coffee Shop
+1849,13th & Montgomery,Jazzman's Cafe,39.98037,-75.15607,"1810 N 13th St (at Alter Hall), Philadelphia, PA 19122",80,Café
+1851,8th & Brown,Pura Vida,39.9636270884807,-75.1476483742907,"527 Fairmount Ave, Philadelphia, PA 19123",413,Latin American Restaurant
+1853,8th & Brown,Tiffin,39.970424014721544,-75.14873063681557,"710 W Girard Ave (Btwn N 7th & N Marshall St), Philadelphia, PA 19123",492,Indian Restaurant
+1856,8th & Brown,Cafe La Maude,39.96421025040534,-75.14441952790673,"816 N 4th St (at Reno St), Philadelphia, PA 19123",606,Café
+1870,32nd & Allegheny,32nd Street Pub,40.00507847042185,-75.18192514790286,"3200 W Allegheny Ave, Philadelphia, PA 19132",53,Bar
+1874,32nd & Allegheny,The Piccadilly,40.00462269713497,-75.17840887867807,"Philadelphia, PA 19131",270,Bar
+1881,21st & Washington,Los Camaradas,39.94081601901921,-75.17973144125848,"918 S 22nd St (at Carpenter St), Philadelphia, PA 19146",232,Mexican Restaurant
+1883,21st & Washington,OCF Coffee House 2,39.93744816669761,-75.17689290886075,"2001 Federal St, Philadelphia, PA 19146",212,Coffee Shop
+1884,21st & Washington,The Sidecar Bar & Grille,39.94172583254961,-75.17939674133275,"2201 Christian St (at 22nd St), Philadelphia, PA 19146",312,Bar
+1886,21st & Washington,Ultimo Coffee,39.94252536801373,-75.17905780552434,"2149 Catharine St (22nd St), Philadelphia, PA 19146",391,Coffee Shop
+1887,21st & Washington,Madira Bar and Grill,39.935919042089644,-75.17915905287052,"1252 S 21st St, Philadelphia, PA 19146",357,Indian Restaurant
+1891,22nd & Cecil B. Moore,Bella's Breakfast & Lunch,39.97960652484411,-75.1707361085872,"2159 Ridge St., Philadelphia, PA 19121",49,Southern Food Restaurant
+1898,22nd & Cecil B. Moore,Mom's Kitchen Table,39.98112646945824,-75.17298482367211,"2319 Ridge Ave, Philadelphia, PA 19121",216,Restaurant
+1902,4th & Oregon,Pho Ha Saigon,39.91324294009004,-75.1538087121806,"575 Adams Ave Ste 1, Philadelphia, PA 19120",264,Vietnamese Restaurant
+1914,36th & Filbert,Savas Brick Oven Pizza,39.95816477449976,-75.19285437290878,"3505 Lancaster Ave, Philadelphia, PA 19104",139,Bar
+1919,36th & Filbert,Han Dynasty University City,39.95658634457237,-75.19707468846718,"3711 Market St, Philadelphia, PA 19104",280,Szechuan Restaurant
+1920,"Girard Station, MFL",Sancho Pistola's,39.968855,-75.135199,"19 W Girard Ave (at Leopard St), Philadelphia, PA 19123",46,Mexican Restaurant
+1922,"Girard Station, MFL",Kosta's,39.96880389088569,-75.13493660588752,"15 W Girard Ave, Philadelphia, PA 19123",56,Greek Restaurant
+1923,"Girard Station, MFL",R&D,39.968991,-75.134605,"1206 Frankford Ave, Philadelphia, PA 19125",91,Cocktail Bar
+1925,"Girard Station, MFL",Johnny Brenda's,39.96899061147213,-75.13425008138374,"1201 Frankford Ave (at Girard Ave), Philadelphia, PA 19125",117,Bar
+1928,"Girard Station, MFL",Barcade,39.96755264839301,-75.13459302918925,"1114 Frankford Ave (W Girard Ave & W Widley St), Philadelphia, PA 19125",127,Bar
+1929,"Girard Station, MFL",Saint Lazarus Bar,39.968792,-75.13639,"102 W Girard Ave (Front Street), Philadelphia, PA 19123",86,Bar
+1931,31st & Girard,iMunch Cafe,39.97585990634777,-75.18637151525799,"1233 N 31st St, Philadelphia, PA 19121",76,Café
+1934,31st & Girard,The Monkey & The Elephant,39.974650944424695,-75.18298099951868,"2831 W Girard Ave (28th St), Philadelphia, PA 19130",322,Café
+1939,31st & Girard,Green Eggs Cafe,39.974146568249,-75.18217418068042,"2800 W Girard Ave (28’th Street), Philadelphia, PA 19130",402,Restaurant
+1942,"Independence Mall, NPS",Talula's Garden,39.94714094280398,-75.15347877070249,"210 W Washington Sq (btwn Walnut St & Locust St), Philadelphia, PA 19106",525,New American Restaurant
+1947,"Independence Mall, NPS",Bubblefish,39.95345457284423,-75.15515705141259,"909 Arch St, Philadelphia, PA 19107",571,Sushi Restaurant
+1948,"Independence Mall, NPS",Zahav,39.946336958922934,-75.14506448469714,"237 Saint James Pl (at Dock St), Philadelphia, PA 19106",615,Israeli Restaurant
+1953,9th & Lombard,Chapterhouse Cafe & Gallery,39.94182815564492,-75.1573325427228,"620 S 9th St (at Bainbridge St.), Philadelphia, PA 19147",168,Coffee Shop
+1954,9th & Lombard,Good Karma Cafe,39.94467167210889,-75.15797234416873,"928 Pine St (at 10th St), Philadelphia, PA 19107",172,Café
+1958,9th & Lombard,Jiggy Coffee,39.944622,-75.158345,"1000 Pine St (10th St), Philadelphia, PA 19107",185,Coffee Shop
+1961,"32nd & Baring, Drexel Park",Brexel Cafe,39.960881121233804,-75.1892782340839,"305 N 33rd St, Philadelphia, PA 19104",151,Hookah Bar
+1965,"32nd & Baring, Drexel Park",Arterial Coffee,39.96319007204626,-75.18762052725634,"3100 Spring Garden St, Philadelphia, PA 19104",163,Coffee Shop
+1970,Cedar & Norris,Loco Pez,39.97684357384847,-75.127390339885,"2401 E Norris St (at Cedar St & Susquehanna St), Philadelphia, PA 19125",21,Mexican Restaurant
+1971,Cedar & Norris,Cedar Point Bar & Kitchen,39.97687265307857,-75.12766820028347,"2370 E Norris St (at Cedar St), Philadelphia, PA 19125",8,Southern Food Restaurant
+1972,Cedar & Norris,ReAnimator Coffee,39.97650155518247,-75.12708523489351,"1523 E Susquehanna Ave (at Norris St), Philadelphia, PA 19125",57,Coffee Shop
+1973,Cedar & Norris,Andy's Chicken,39.9775078699667,-75.12831021315847,"2001 Memphis St (Norris St), Philadelphia, PA 19125",97,Korean Restaurant
+1978,Cedar & Norris,Coffee House Too,39.97683008925086,-75.12368091340477,"2514 E York St # 3647 (at Belgrade St), Philadelphia, PA 19125",337,Café
+1979,Cedar & Norris,St. Oner’s,39.979849414239425,-75.12863018452495,"2213 Frankford Ave, Philadelphia, PA 19125",349,Bar
+1982,15th & Spruce,José Pistola's,39.947678,-75.166235,"263 S 15th St (at Bach Pl), Philadelphia, PA 19102",63,Mexican Restaurant
+1986,15th & Spruce,Volvér,39.946969267386606,-75.16538403519627,"300 S Broad St (in the Kimmel Center), Philadelphia, PA 19102",69,Restaurant
+1991,16th & Wolf,D'jakarta Cafe,39.92089747932695,-75.17351075725236,"1540 W Ritner St (16th st & Ritner st), Philadelphia, PA 19145",184,Indonesian Restaurant
+1992,16th & Wolf,Café Nhan,39.92459133358151,-75.17336068782143,"1606 W Passyunk Ave, Philadelphia, PA 19145",226,Vietnamese Restaurant
+1993,16th & Wolf,Café y Chocolate,39.924628,-75.17226,"1532 Snyder Ave, Philadelphia, PA 19145",249,Mexican Restaurant
+1996,16th & Wolf,La Llorona Cantina Mexicana,39.925095536130854,-75.17274835174518,"1551 W Passyunk Ave (at S 16th St), Philadelphia, PA 19145",287,Mexican Restaurant
+1998,16th & Wolf,Starbucks,39.92252073,-75.16985776,"2201-2219 S Broad St (at Jackson St), Philadelphia, PA 19148",299,Coffee Shop
+1999,16th & Wolf,L'Angolo Ristorante,39.91956206367489,-75.17136297948085,"1415 W Porter St, Philadelphia, PA 19145",373,Italian Restaurant
+2003,23rd & Master,2637Brew,39.97433440252006,-75.18003518604161,"2637 W Girard Ave, Philadelphia, PA 19130",595,American Restaurant
+2004,23rd & Master,Lucky Goat Coffee House,39.972487950274584,-75.17935730716006,"888 N 26th St (at Poplar St), Philadelphia, PA 19130",659,Coffee Shop
+2011,Broad & Master,Honeygrow,39.97742972464794,-75.15751755550048,"1601 N Broad St (Cecil B Moore Ave), Philadelphia, PA 19122",344,Salad Restaurant
+2014,Broad & Master,Tropical Smoothie Cafe,39.977931062914465,-75.15840999874148,"1600 N Broad St, Philadelphia, PA 19121",375,Juice Bar
+2015,Broad & Master,Pita Chip,39.9780377862915,-75.1584168065293,"1600 N Broad St Ste 7, Philadelphia, PA 19121",387,Mediterranean Restaurant
+2020,Thompson & Franklin,Tiffin,39.970424014721544,-75.14873063681557,"710 W Girard Ave (Btwn N 7th & N Marshall St), Philadelphia, PA 19123",156,Indian Restaurant
+2023,Thompson & Franklin,Taco Riendo,39.971460413774864,-75.14467287666268,"1301 N 5th St (at Thompson St.), Philadelphia, PA 19122",352,Taco Restaurant
+2025,Thompson & Franklin,Helm,39.971552051326896,-75.14453863761928,"1303 N 5th St (at W Thompson St), Philadelphia, PA 19122",362,New American Restaurant
+2032,6th & Berks,Club 1800,39.979733593184754,-75.14316507489376,"1851 N 5th St (Berks St.), Philadelphia, PA 19122",56,Bar
+2034,6th & Berks,Making Time Warehouse,39.97718535384284,-75.14407891015487,"521 Cecil B Moore Ave, Philadelphia, PA 19122",317,Bar
+2035,6th & Berks,Sutton’s,39.97714325298363,-75.14377508139536,"1706 N 5th St, Philadelphia, PA 19122",320,Restaurant
+2044,20th & Race,Peddler Coffee,39.9582878249093,-75.17422193303025,"2100 Spring St (at N 21st St), Philadelphia, PA 19103",198,Coffee Shop
+2046,20th & Race,Thanal Indian Tavern,39.95568425250386,-75.17255870765372,"1939 Arch St, Philadelphia, PA 19103",175,Indian Restaurant
+2051,12th & Fairmount,Osteria,39.965029,-75.161056,"640 N Broad St, Philadelphia, PA 19130",370,Italian Restaurant
+2055,12th & Fairmount,Sals Seafood,39.9664448073453,-75.16090341944735,"676 N Broad St, Philadelphia, PA 19130",360,Seafood Restaurant
+2063,54th & City Ave,Starbucks,39.99633774920062,-75.23460849799976,"2461 N 54th St (54th Street), Philadelphia, PA 19131",41,Coffee Shop
+2064,54th & City Ave,Al-Sham Middle Eastern Food,39.99710117431726,-75.2355177505204,"201 City Ave (at Old Lancaster Rd), Merion Station, PA 19066",76,Middle Eastern Restaurant
+2067,54th & City Ave,Fat Tuna,39.99564743041992,-75.23375701904297,"2451 N 54th St, Philadelphia, PA 19131",145,Sushi Restaurant
+2068,54th & City Ave,Wendy's,39.99651027970136,-75.23719467599221,"259 City Ave, Merion Station, PA 19066",202,Fast Food Restaurant
+2070,"15th & Castle, DiSilvestro Playground",Hardena Waroeng Surabaya Restaurant,39.92837866859552,-75.17120537475252,"1754 S Hicks St (At Moore St), Philadelphia, PA 19145",99,Indonesian Restaurant
+2073,"15th & Castle, DiSilvestro Playground",Ultimo Coffee,39.926975590245206,-75.17102946437927,"1900 S 15th St (at Mifflin St), Philadelphia, PA 19145",218,Coffee Shop
+2074,"15th & Castle, DiSilvestro Playground",Ristorante Pesto,39.92633847119804,-75.16918073650385,"1915 S Broad St (btwn McKean St & Mifflin St), Philadelphia, PA 19148",291,Italian Restaurant
+2075,"15th & Castle, DiSilvestro Playground",The Dolphin Tavern,39.93059331086254,-75.16821515026264,"1539 S Broad St, Philadelphia, PA 19147",258,Dive Bar
+2076,"15th & Castle, DiSilvestro Playground",Oriental Chinese Restaurant,39.92795268288914,-75.16927820428418,"1800 S Broad St (moore street), Philadelphia, PA 19145",126,Asian Restaurant
+2077,"15th & Castle, DiSilvestro Playground",Stargazy,39.92679571550138,-75.16735612833608,"1838 E Passyunk Ave (Mifflin), Philadelphia, PA 19148",332,English Restaurant
+2080,12th & Chestnut,Cogito Coffee,39.950010426219656,-75.1599405647204,"105 S 12th St (btwn Chestnut & Sansom Sts), Philadelphia, PA 19107",41,Coffee Shop
+2084,12th & Chestnut,Barbuzzo Mediterranean Kitchen & Bar,39.9499825199725,-75.16198676035361,"110 S 13th St (at Sansom St), Philadelphia, PA 19107",149,Mediterranean Restaurant
+2085,12th & Chestnut,El Vez,39.94975516439121,-75.1619030850894,"121 S 13th St (at Sansom St), Philadelphia, PA 19107",150,Mexican Restaurant
+2086,12th & Chestnut,Rice & Mix,39.9489910436543,-75.16071199575383,"1207 Walnut St (at 12th St), Philadelphia, PA 19107",148,Korean Restaurant
+2087,12th & Chestnut,Charlie was a sinner.,39.949493,-75.16179,"131 S 13th St, Philadelphia, PA 19107",156,Vegan and Vegetarian Restaurant
+2088,12th & Chestnut,Masala Kitchen : Kati Rolls & Platters,39.94899037353924,-75.16101962283194,"1211 Walnut St (12th Street), Philadelphia, PA 19107",156,Indian Restaurant
+2094,33rd & Market,Landmark Americana,39.95593210284497,-75.19060672261838,"3333 Market St (at 34th St), Philadelphia, PA 19104",69,American Restaurant
+2106,Germantown & Huntingdon,Burger King,39.992939832414244,-75.14477805408477,"701 W Lehigh Ave, Philadelphia, PA 19133",325,Fast Food Restaurant
+2108,Germantown & Huntingdon,On My Post,39.994072669079436,-75.14880947791389,"Lehigh Ave, Philadelphia, PA 19133",296,Bar
+2111,York & Gaul,Coffee House Too,39.97683008925086,-75.12368091340477,"2514 E York St # 3647 (at Belgrade St), Philadelphia, PA 19125",105,Café
+2115,York & Gaul,ReAnimator Coffee,39.97650155518247,-75.12708523489351,"1523 E Susquehanna Ave (at Norris St), Philadelphia, PA 19125",257,Coffee Shop
+2116,York & Gaul,Loco Pez,39.97684357384847,-75.127390339885,"2401 E Norris St (at Cedar St & Susquehanna St), Philadelphia, PA 19125",266,Mexican Restaurant
+2119,York & Gaul,Cedar Point Bar & Kitchen,39.97687265307857,-75.12766820028347,"2370 E Norris St (at Cedar St), Philadelphia, PA 19125",287,Southern Food Restaurant
+2123,27th & Pennsylvania,Trio,39.970369965319335,-75.18048119038606,"2624 Brown St (at N Taney St), Philadelphia, PA 19130",178,Thai Restaurant
+2124,27th & Pennsylvania,Brown Street Coffee,39.970450661128716,-75.17948456229703,"2545 Brown St (26'th Street), Philadelphia, PA 19130",243,Coffee Shop
+2133,Point Breeze & Tasker,Madira Bar and Grill,39.935919042089644,-75.17915905287052,"1252 S 21st St, Philadelphia, PA 19146",449,Indian Restaurant
+2136,Point Breeze & Tasker,22nd Street Cafe,39.936125706582246,-75.18076282808812,"1264 S 22nd St (at Wharton St), Philadelphia, PA 19146",429,Café
+2141,10th & Oregon,Cookie's Tavern,39.916120345169006,-75.16508066605748,"2647 S Alder St (at Oregon Ave.), Philadelphia, PA 19148",75,Bar
+2146,10th & Oregon,Flying Fish Seafood,39.91594386543654,-75.1631388918305,"2652 S 9th St (at Oregon Ave), Philadelphia, PA 19148",100,Seafood Restaurant
+2148,10th & Oregon,SouthHouse,39.91803133431034,-75.1687293334536,"2535 S 13th St (Shunk), Philadelphia, PA 19148",451,Bar
+2149,10th & Oregon,Black Cat Tavern,39.91657073581015,-75.16777652380834,"2654 S 12th St (Oregon Ave), Philadelphia, PA 19148",308,Bar
+2150,15th & South,Bob & Barbara's Cocktail Lounge,39.94398386095084,-75.16757995945206,"1509 South St (at 15th St), Philadelphia, PA 19146",21,Dive Bar
+2151,15th & South,Sawatdee,39.94390919808878,-75.16727502499022,"534 S 15th St (at 15th St), Philadelphia, PA 19146",6,Thai Restaurant
+2153,15th & South,The Quick Fixx,39.94398018082709,-75.16764468637469,"1511 South St, Philadelphia, PA 19146",26,Italian Restaurant
+2154,15th & South,Wine Dive,39.94378756484492,-75.16758320379034,"1506 South St (at S 15th St), Philadelphia, PA 19146",24,Wine Bar
+2155,15th & South,Jet Wine Bar,39.94405195242865,-75.16801364114593,"1525 South St (btwn 15th & 16th Sts), Philadelphia, PA 19146",58,Wine Bar
+2157,15th & South,Rex at the Royal,39.9438166453252,-75.16822996022114,"1524 South St, Philadelphia, PA 19146",75,Southern Food Restaurant
+2159,15th & South,Tio Flores,39.94403282305938,-75.16889841583622,"1600 South St (S 16th St), Philadelphia, PA 19146",132,Mexican Restaurant
+2162,Broad & Erie ,Clock Bar,40.00890840580944,-75.15073777740236,"3649 Germantown Ave, Philadelphia, PA 19140",111,Cocktail Bar
+2163,Broad & Erie ,Dwights Southern Bar-B-Que II,40.01040353798561,-75.15135511796076,"3734 Germantown Ave, Philadelphia, PA 19140",139,Restaurant
+2164,Broad & Erie ,Eagle Bar,40.009142926859944,-75.15047704524783,"3653 Germantown Ave, Philadelphia, PA 19140",128,Bar
+2171,Broad & Reed,Hive,39.93189253172064,-75.16828385700754,"Broad street, Philadelphia, PA 19146",127,Coffee Shop
+2172,Broad & Reed,The Victor Cafe,39.93163268258334,-75.1663265045386,"1303 Dickinson St, Philadelphia, PA 19147",224,Italian Restaurant
+2173,Broad & Reed,Green Eggs Cafe,39.931485326797656,-75.16653783661927,"1306 Dickinson St (at S Clarion St), Philadelphia, PA 19147",224,Café
+2175,Broad & Reed,ReAnimator Coffee,39.934027,-75.16597,"1248 S Clarion St (Wharton St), Philadelphia, PA 19147",220,Coffee Shop
+2178,Broad & Reed,The Dolphin Tavern,39.93059331086254,-75.16821515026264,"1539 S Broad St, Philadelphia, PA 19147",271,Dive Bar
+2179,Broad & Reed,JNA Institute of Culinary Arts,39.935221667088356,-75.16789505310742,"1212 S Broad St (Ellsworth), Philadelphia, PA 19146",244,American Restaurant
+2180,Broad & Oregon,Johnny Chang's,39.91800539292307,-75.1708331907566,"2601 S Broad St (at W Shunk St), Philadelphia, PA 19148",93,Sushi Restaurant
+2181,Broad & Oregon,SouthHouse,39.91803133431034,-75.1687293334536,"2535 S 13th St (Shunk), Philadelphia, PA 19148",212,Bar
+2182,Broad & Oregon,Caffe Chicco,39.91873892774997,-75.17122391682463,"2532 S Broad St (between Porter & Shunk Streets), Philadelphia, PA 19145",175,Café
+2183,Broad & Oregon,Scannicchio's,39.919354267886376,-75.17087317296719,"2500 S Broad St, Philadelphia, PA 19145",242,Italian Restaurant
+2185,Broad & Oregon,L'Angolo Ristorante,39.91956206367489,-75.17136297948085,"1415 W Porter St, Philadelphia, PA 19145",268,Italian Restaurant
+2194,Penn Treaty Park,Ekta Indian Cuisine,39.96927,-75.132645,"1142 Crease St (Marlborough St.), Philadelphia, PA 19125",381,Indian Restaurant
+2195,Penn Treaty Park,Murph's Bar,39.96897,-75.133418,"202 E Girard Ave (at Frankford Ave), Philadelphia, PA 19125",407,Italian Restaurant
+2196,Penn Treaty Park,Barcade,39.96755264839301,-75.13459302918925,"1114 Frankford Ave (W Girard Ave & W Widley St), Philadelphia, PA 19125",431,Bar
+2197,Penn Treaty Park,Johnny Brenda's,39.96899061147213,-75.13425008138374,"1201 Frankford Ave (at Girard Ave), Philadelphia, PA 19125",466,Bar
+2201,24th & Sansom,Rosy's Taco Bar,39.95110946130918,-75.17851029130975,"2220 Walnut St, Philadelphia, PA 19103",123,Taco Restaurant
+2202,24th & Sansom,Erawan Thai Cuisine,39.95175967423992,-75.17835023927651,"123 S 23rd St (btw Sansom & Walnut), Philadelphia, PA 19103",94,Thai Restaurant
+2203,24th & Sansom,Ambrosia Ristorante BYOB,39.949964492464765,-75.17958806413459,"231 S 24th St, Philadelphia, PA 19103",223,Italian Restaurant
+2208,24th & Sansom,Bonner's Irish Pub,39.951778824223354,-75.17845678172074,"120 S 23rd St (at Sansom St), Philadelphia, PA 19103",85,Bar
+2213,2nd & Snyder,The Wild Burrito,39.92281027634022,-75.1525331999143,"2015 E Moyamensing Ave, Philadelphia, PA 19148",254,Burrito Restaurant
+2215,2nd & Snyder,Terryin,39.921944217478746,-75.15282186830889,"358 Snyder Ave, Philadelphia, PA 19148",243,Chinese Restaurant
+2221,4th & Arch,La Locanda Del Ghiottone,39.95304470547211,-75.14512461415435,"130 N 3rd St (at Cherry St), Philadelphia, PA 19106",197,Italian Restaurant
+2224,4th & Arch,Kisso Sushi Bar,39.95427766849037,-75.1464039502837,"205 N 4th St (4th & Race), Philadelphia, PA 19106",223,Sushi Restaurant
+2228,4th & Arch,ICI Macarons & Cafe,39.950572,-75.145401,"11 N 3rd St, Philadelphia, PA 19106",256,Café
+2230,Manayunk Bridge,SMoKE Cigar & Hookah Parlor,40.026882596458854,-75.22644100723285,"4453 Main St (at Green Ln), Philadelphia, PA 19127",160,Hookah Bar
+2234,Manayunk Bridge,Laxmi's Indian Grille,40.026381441882044,-75.22554688762149,"4425 Main St (at Carson St), Philadelphia, PA 19127",253,Indian Restaurant
+2235,Manayunk Bridge,Taqueria Amor,40.02603429958777,-75.22505097899997,"4410 Main St (btwn Gay St & Levering St), Philadelphia, PA 19127",310,Mexican Restaurant
+2237,Manayunk Bridge,Chabaa Thai Bistro,40.025885185734644,-75.22444180920658,"4343 Main St, Philadelphia, PA 19127",360,Thai Restaurant
+2238,Manayunk Bridge,United States Hotel Bar,40.026492560925526,-75.22618864838137,"4439 Main St, Philadelphia, PA 19127",207,Bar
+2239,Manayunk Bridge,Jake's and Cooper's Wine Bar,40.02573725907788,-75.22425082675446,"4365 Main St, Philadelphia, PA 19127",383,New American Restaurant
+2241,44th & Walnut,Saad's Halal Restaurant,39.954964,-75.21185,"4500 Walnut St (at 45th St), Philadelphia, PA 19139",169,Middle Eastern Restaurant
+2243,44th & Walnut,Kilimandjaro,39.95676607480428,-75.2089249938346,"4301 Chestnut St (btwn S 44th & S 43rd St), Philadelphia, PA 19104",200,African Restaurant
+2245,44th & Walnut,Kaffa Crossing,39.95686570269632,-75.21052270723752,"4421 Chestnut St, Philadelphia, PA 19104",202,Ethiopian Restaurant
+2246,44th & Walnut,Makkah Market,39.95493752408301,-75.20844803595514,"4249 Walnut St, Philadelphia, PA 19104",122,Middle Eastern Restaurant
+2247,44th & Walnut,Best China Inn,39.95416251433907,-75.21129342117389,"4423 Locust St, Philadelphia, PA 19104",160,Chinese Restaurant
+2249,44th & Walnut,Abyssinia,39.95413034678355,-75.21174073722528,"229 S 45th St (at Locust St), Philadelphia, PA 19104",192,Ethiopian Restaurant
+2252,12th & Cambria,On My Post,39.994072669079436,-75.14880947791389,"Lehigh Ave, Philadelphia, PA 19133",290,Bar
+2254,12th & Cambria,Halal Steaks,39.995325198568665,-75.15392471409723,"2739 N Broad St, Philadelphia, PA 19132",367,Restaurant
+2258,12th & Cambria,Taco Bell,39.99977309234654,-75.15373459974586,"3032 N Broad St, Philadelphia, PA 19132",484,Fast Food Restaurant
+2260,Fairmount & Ridge,Lorraine,39.96799374905181,-75.16237877250926,"1502 Brown St, Philadelphia, PA 19130",131,Bar
+2261,Fairmount & Ridge,Sals Seafood,39.9664448073453,-75.16090341944735,"676 N Broad St, Philadelphia, PA 19130",86,Seafood Restaurant
+2263,Fairmount & Ridge,Osteria,39.965029,-75.161056,"640 N Broad St, Philadelphia, PA 19130",239,Italian Restaurant
+2268,Fairmount & Ridge,Coffee Cream & Dreams,39.966923432416685,-75.16239644226121,"1500 Fairmount Ave (at N 15th St), Philadelphia, PA 19130",101,Café
+2271,"Spring Garden Station, BSL",Starbucks,39.962328671325146,-75.16227504323092,"490 N Broad St, Philadelphia, PA 19130",91,Coffee Shop
+2274,"Spring Garden Station, BSL",Osteria,39.965029,-75.161056,"640 N Broad St, Philadelphia, PA 19130",288,Italian Restaurant
+2278,"Spring Garden Station, BSL",Kelliann's Bar & Grill,39.963014,-75.164509,"1549 Spring Garden St, Philadelphia, PA 19130",288,Dive Bar
+2280,8th & Spruce,Talula's Garden,39.94714094280398,-75.15347877070249,"210 W Washington Sq (btwn Walnut St & Locust St), Philadelphia, PA 19106",209,New American Restaurant
+2282,8th & Spruce,Talula's Daily,39.94720819910365,-75.153444974205,"208 W Washington Sq, Philadelphia, PA 19106",217,Café
+2283,8th & Spruce,Good Karma Cafe,39.94467167210889,-75.15797234416873,"928 Pine St (at 10th St), Philadelphia, PA 19107",272,Café
+2285,8th & Spruce,Kanella,39.94626186730036,-75.15794330039307,"1001 Spruce St, Philadelphia, PA 19107",251,Greek Restaurant
+2287,8th & Spruce,Sweetgreen,39.94832076167723,-75.15701806486913,"924 Walnut St (at 10th St), Philadelphia, PA 19107",333,Salad Restaurant
+2288,8th & Spruce,Jiggy Coffee,39.944622,-75.158345,"1000 Pine St (10th St), Philadelphia, PA 19107",303,Coffee Shop
+2294,American & Berks,Alamodak Restaurant,39.976365680254986,-75.13740157331392,"161 Cecil B Moore Ave (N. Hancock), Philadelphia, PA 19122",278,Halal Restaurant
+2298,American & Berks,Buzz Cafe,39.977471074816684,-75.13501932584151,"1800 N Howard St, Philadelphia, PA 19122",366,Café
+2308,5th & Spring Garden,Pura Vida,39.9636270884807,-75.1476483742907,"527 Fairmount Ave, Philadelphia, PA 19123",229,Latin American Restaurant
+2311,52nd & Chestnut,Brown Sugar Bakery & Cafe,39.956472693718695,-75.22550884791522,"219 S 52nd St (at Chancellor St.), Philadelphia, PA 19139",228,Caribbean Restaurant
+2315,52nd & Chestnut,Top Taste,39.96118545959108,-75.22486763865805,"40 N 52nd St, Philadelphia, PA 19139",327,Caribbean Restaurant
+2316,52nd & Chestnut,Maximum Level,39.957315659921065,-75.22397026582351,"5118 Sansom St, Philadelphia, PA 19139",109,Bar
+2321,42nd & Woodland,Starbucks,39.946772,-75.206731,"4140 Woodland Ave (at Woodland Ave), Philadelphia, PA 19104",46,Coffee Shop
+2325,42nd & Woodland,Green Line Cafe,39.949702,-75.209126,"4239 Baltimore Ave (at 43rd St), Philadelphia, PA 19104",338,Coffee Shop
+2329,42nd & Woodland,Renata's Kitchen,39.949588775634766,-75.20314025878906,"3940 Baltimore Ave (40th St), Philadelphia, PA 19104",418,Mediterranean Restaurant
+2330,17th & Sansom,Luke's Lobster,39.950642282606665,-75.16894713014693,"130 S 17th St (at Sansom St), Philadelphia, PA 19103",53,Seafood Restaurant
+2331,17th & Sansom,Tria Cafe Rittenhouse,39.9509483,-75.1704197,"123 S 18th St (Rittenhouse Sq.), Philadelphia, PA 19103",77,Wine Bar
+2333,17th & Sansom,Dizengoff,39.95071550302768,-75.16836116134685,"1625 Sansom St, Philadelphia, PA 19103",100,Israeli Restaurant
+2334,17th & Sansom,The Dandelion,39.951038522168545,-75.17068929970264,"124 S 18th St (at Sansom St), Philadelphia, PA 19103",101,English Restaurant
+2335,17th & Sansom,Gran Caffe L'Aquila,39.951727725547904,-75.16939016959759,"1716 Chestnut St, Philadelphia, PA 19103",102,Italian Restaurant
+2336,17th & Sansom,The Love,39.95077944503111,-75.17090857028961,"130 S 18th St (Sansom), Philadelphia, PA 19103",117,New American Restaurant
+2354,10th & Nevada,Tai's Vietnamese Food,39.98193759610899,-75.15285691712718,"1835 N 12th St, Philadelphia, PA 19122",571,Vietnamese Restaurant
+2361,27th & Clearfield,Twin Dragon Chinese Restaurant,40.00450338072625,-75.17306318767709,"2617 W Allegheny Ave (Allegheny ave and bailey st), Philadelphia, PA 19132",205,Chinese Restaurant
+2370,24th & Christian,Thai Square Restaurant,39.94258014506257,-75.18539078822691,"2521 Christian St, Philadelphia, PA 19146",180,Thai Restaurant
+2371,24th & Christian,The Sidecar Bar & Grille,39.94172583254961,-75.17939674133275,"2201 Christian St (at 22nd St), Philadelphia, PA 19146",339,Bar
+2372,24th & Christian,Ultimo Coffee,39.94252536801373,-75.17905780552434,"2149 Catharine St (22nd St), Philadelphia, PA 19146",368,Coffee Shop
+2373,24th & Christian,Los Camaradas,39.94081601901921,-75.17973144125848,"918 S 22nd St (at Carpenter St), Philadelphia, PA 19146",341,Mexican Restaurant
+2380,Walnut & Rittenhouse,La Colombe Coffee Roasters,39.950775735558906,-75.17227547043973,"130 S 19th St (btwn Sansom & Walnut St), Philadelphia, PA 19103",82,Coffee Shop
+2381,Walnut & Rittenhouse,Lacroix Restaurant at The Rittenhouse,39.94968254511642,-75.17269317887805,"210 W Rittenhouse Sq, Philadelphia, PA 19103",84,Restaurant
+2382,Walnut & Rittenhouse,Machi Sushi Bar,39.950026466691384,-75.17370116478132,"209 S 20th St (Walnut St.), Philadelphia, PA 19103",65,Sushi Restaurant
+2383,Walnut & Rittenhouse,Almaz Cafe,39.95067716891859,-75.17380949105907,"140 S 20th St (at Walnut St.), Philadelphia, PA 19103",69,Ethiopian Restaurant
+2385,Walnut & Rittenhouse,Village Whiskey,39.95128529751654,-75.17364332772435,"118 S 20th St (at Sansom St), Philadelphia, PA 19103",111,Whisky Bar
+2387,Walnut & Rittenhouse,Zama,39.95089666989317,-75.17215583442001,"128 S 19th St (btwn Sansom & Walnut), Philadelphia, PA 19103",98,Japanese Restaurant
+2388,Walnut & Rittenhouse,K'Far,39.951446,-75.172111,"110 S 19th St, Philadelphia, PA 19103",144,Café
+2392,"19th & Girard, PTTI",Libertee Grounds,39.971599334023246,-75.16321131961746,"1600 W Girard Ave, Philadelphia, PA 19130",388,Beer Bar
+2398,"19th & Girard, PTTI",Vineyards Cafe,39.96984341458582,-75.1629700916429,"847 N 16th St, Philadelphia, PA 19130",499,Coffee Shop
+2401,City Hall South,La Colombe Coffee Roasters,39.951659480836746,-75.16523808706552,"1414 S Penn Sq (at S 15th St), Philadelphia, PA 19102",111,Coffee Shop
+2411,58th & Spruce,Ol Boys,39.95760956235027,-75.24145088632083,"243 S 60th St, Philadelphia, PA 19139",277,Southern Food Restaurant
+2419,58th & Spruce,Hyon's Seafood Restaurant,39.955421855882946,-75.23434041269194,"5600 Spruce St, Philadelphia, PA 19139",383,Seafood Restaurant
+2421,Cresson & Levering,Chabaa Thai Bistro,40.025885185734644,-75.22444180920658,"4343 Main St, Philadelphia, PA 19127",69,Thai Restaurant
+2422,Cresson & Levering,Taqueria Amor,40.02603429958777,-75.22505097899997,"4410 Main St (btwn Gay St & Levering St), Philadelphia, PA 19127",73,Mexican Restaurant
+2424,Cresson & Levering,Volo Coffeehouse,40.025735,-75.223964,"4360 Main St (at Levering St), Philadelphia, PA 19127",95,Coffee Shop
+2425,Cresson & Levering,Jake's and Cooper's Wine Bar,40.02573725907788,-75.22425082675446,"4365 Main St, Philadelphia, PA 19127",87,New American Restaurant
+2426,Cresson & Levering,Han Dynasty,40.0255810217567,-75.22382460811681,"4356 Main St, Philadelphia, PA 19127",116,Chinese Restaurant
+2427,Cresson & Levering,Laxmi's Indian Grille,40.026381441882044,-75.22554688762149,"4425 Main St (at Carson St), Philadelphia, PA 19127",94,Indian Restaurant
+2432,10th & Chestnut,Honeygrow,39.950876736160026,-75.15823287895564,"15 S 11th St, Philadelphia, PA 19107",158,Salad Restaurant
+2436,10th & Chestnut,Sweetgreen,39.94832076167723,-75.15701806486913,"924 Walnut St (at 10th St), Philadelphia, PA 19107",193,Salad Restaurant
+2441,"52nd St Station, MFL ",Top Taste,39.96118545959108,-75.22486763865805,"40 N 52nd St, Philadelphia, PA 19139",137,Caribbean Restaurant
+2446,"52nd St Station, MFL ",Brown Sugar Bakery & Cafe,39.956472693718695,-75.22550884791522,"219 S 52nd St (at Chancellor St.), Philadelphia, PA 19139",403,Caribbean Restaurant
+2450,11th & Washington,Nam Phuong Restaurant,39.93651337954465,-75.1619692866496,"1100 Washington Ave (at 11th St), Philadelphia, PA 19147",104,Vietnamese Restaurant
+2451,11th & Washington,Le Viet,39.937744633855324,-75.1611508483947,"1019 S 11th St (at Washington Ave), Philadelphia, PA 19147",56,Vietnamese Restaurant
+2452,11th & Washington,Viet Huong Restaurant,39.93694005369687,-75.16187535689946,"1110 Washington Ave (at S 11th St), Philadelphia, PA 19147",66,Vietnamese Restaurant
+2453,11th & Washington,Pho 75,39.9372143987388,-75.16278704877544,"1122 Washington Ave (btwn 11th St & 12th St), Philadelphia, PA 19147",135,Vietnamese Restaurant
+2454,11th & Washington,Ratchada,39.936588872399085,-75.16140559681635,"1117 S 11th St, Philadelphia, PA 19147",74,Thai Restaurant
+2457,11th & Washington,Sky Cafe,39.93701234513389,-75.16293716036692,"1122-38 Washington Ave, Philadelphia, PA 19147",150,Indonesian Restaurant
+2463,42nd & Lancaster,Quality Taste Jamaican Restaurant & Jerk Hut,39.96309900792833,-75.20271181699856,"4002 Lancaster Ave, Philadelphia, PA 19104",604,Caribbean Restaurant
+2467,42nd & Lancaster,Irie Caribbean West Indian Cuisine,39.96504808684384,-75.20490263784194,"4091 Lancaster Ave, Philadelphia, PA 19104",323,Caribbean Restaurant
+2471,24th & Race SRT,Peddler Coffee,39.9582878249093,-75.17422193303025,"2100 Spring St (at N 21st St), Philadelphia, PA 19103",339,Coffee Shop
+2475,24th & Race SRT,JG Domestic,39.95718574170839,-75.182156459992,"2929 Arch St, Philadelphia, PA 19104",355,American Restaurant
+2487,"Pennsylvania & Fairmount, Perelman Building",Figs,39.96839401647117,-75.17854186604552,"2501 Meredith St (25th Street), Philadelphia, PA 19130",122,Mediterranean Restaurant
+2489,"Pennsylvania & Fairmount, Perelman Building",The Bishop's Collar,39.96743480965734,-75.17697414917197,"2349 Fairmount Ave (at 24th St), Philadelphia, PA 19130",217,Bar
+2491,6th & Race,La Colombe Coffee Roasters,39.95056267980895,-75.15075758821155,"100 S Independence Mall West (at Market St), Philadelphia, PA 19106",393,Coffee Shop
+2492,6th & Race,Terakawa Ramen,39.955403963762315,-75.15440488682123,"204 N 9th St (btwn Race & Spring St), Philadelphia, PA 19107",418,Ramen Restaurant
+2496,6th & Race,La Locanda Del Ghiottone,39.95304470547211,-75.14512461415435,"130 N 3rd St (at Cherry St), Philadelphia, PA 19106",415,Italian Restaurant
+2497,6th & Race,Sang Kee Peking Duck House,39.95644347292135,-75.15402667490855,"238 N 9th St, Philadelphia, PA 19107",446,Chinese Restaurant
+2502,Broad & Christian,Chipotle Mexican Grill,39.93902286837372,-75.16775132324646,"1000 S Broad St, Philadelphia, PA 19146",148,Mexican Restaurant
+2505,Broad & Christian,Starbucks,39.93814367595363,-75.16696429034168,"1002 S Broad St (Washington Avenue), Philadelphia, PA 19146",227,Coffee Shop
+2507,Broad & Christian,Quetzally Mexican Food,39.941602357178446,-75.16314433413895,"1225 Fitzwater St (at S 12th St), Philadelphia, PA 19147",357,Mexican Restaurant
+2509,Broad & Christian,L'Anima,39.939471000000005,-75.17119100000001,"1001 S 17th St (Carpenter), Philadelphia, PA 19146",373,Italian Restaurant
+2512,Broad & Cherry,Amuse at Le Meridien,39.954303678615744,-75.16429148186037,"1421 Arch St, Philadelphia, PA 19102",150,French Restaurant
+2514,Broad & Cherry,Nom Wah Philadelphia,39.95652088029104,-75.16062473020692,"218 N 13th St (Vine & Race), Philadelphia, PA 19107",247,Dim Sum Restaurant
+2521,13th & Locust,Little Nonna's,39.94796392396066,-75.16198817025744,"1234 Locust St, Philadelphia, PA 19107",31,Italian Restaurant
+2522,13th & Locust,Bud & Marilyn's,39.947792141419676,-75.16225657280376,"1234 Locust St (at S 13th St), Philadelphia, PA 19107",40,Comfort Food Restaurant
+2524,13th & Locust,Cappelli Brothers Cigar Company,39.94843289874222,-75.16207575182774,"211 S. 13 St Philadelphia Pa (13th Walnut Between Locust Street), Philadelphia, PA 19107",34,Hookah Bar
+2525,13th & Locust,Vedge,39.94791087997688,-75.16149563861157,"1221 Locust St (btwn 12th St & 13th St), Philadelphia, PA 19107",70,Vegan and Vegetarian Restaurant
+2526,13th & Locust,Franky Bradley's,39.948584512052285,-75.16304154608379,"1320 Chancellor St, Philadelphia, PA 19107",81,Cocktail Bar
+2528,13th & Locust,U BAR,39.9478261595611,-75.16154639972808,"1220 Locust St (at S Camac St), Philadelphia, PA 19107",71,Gay Bar
+2529,13th & Locust,Tavern On Camac,39.94729492117529,-75.1616352765001,"243 S Camac St (btwn Locust & Spruce St), Philadelphia, PA 19107",109,Gay Bar
+2530,10th & Federal,Rim Cafe,39.934280260582156,-75.15892816678588,"1172 S 9th St (at Federal St), Philadelphia, PA 19147",127,Café
+2533,10th & Federal,Garage,39.93350741298704,-75.158886727439,"1231 E Passyunk Ave (at 9th St), Philadelphia, PA 19147",158,Bar
+2534,10th & Federal,South Philly Barbacoa,39.93498719736894,-75.15869668927145,"1149 S 9th St, Philadelphia, PA 19147",165,Mexican Restaurant
+2536,10th & Federal,Tiffin Bistro,39.93473682339674,-75.16231901107831,"1100 Federal St, Philadelphia, PA 19147",168,Indian Restaurant
+2538,10th & Federal,Triangle Tavern,39.93220277721176,-75.16108015655877,"1338 S 10th St, Philadelphia, PA 19147",240,Bar
+2539,10th & Federal,Mole Poblano,39.935079299297286,-75.15890209250038,"1144 S 9th St, Philadelphia, PA 19147",155,Mexican Restaurant
+2543,Rodin Museum,Dizengoff,39.96300504544611,-75.17428656367117,"2101 Pennsylvania Ave, Philadelphia, PA 19130",56,Jewish Restaurant
+2544,Rodin Museum,Goldie - Whole Foods Market,39.96300258045803,-75.1742946711873,"2101 Pennsylvania Ave, Philadelphia, PA 19130",56,Falafel Restaurant
+2546,Rodin Museum,WFM Coffee Bar,39.9628975369245,-75.17413924269384,"2101 Pennsylvania Ave, Philadelphia, PA 19130",44,Coffee Shop
+2548,Rodin Museum,Umai Umai,39.964673,-75.17412999999999,"533 N 22nd St, Philadelphia, PA 19130",241,Sushi Restaurant
+2550,Frankford & Belgrade,Wm. Mulherin's Sons,39.97180489879118,-75.13512193388114,"1355 N Front St, Philadelphia, PA 19122",59,Italian Restaurant
+2551,Frankford & Belgrade,La Colombe Coffee Roasters,39.97120797191968,-75.13427000683028,"1335 Frankford Ave (btwn Mercer & Master St), Philadelphia, PA 19125",83,Café
+2554,Frankford & Belgrade,sweetgreen,39.97171,-75.134254,"100 W Oxford St, Philadelphia, PA 19125",31,Salad Restaurant
+2555,Frankford & Belgrade,El Bar,39.971817775695264,-75.13532477164699,"1356 N Front St (at Master St), Philadelphia, PA 19122",75,Dive Bar
+2556,Frankford & Belgrade,Hiroki,39.97169217555133,-75.13508376279403,"1355 N Front St (Master St), Philadelphia, PA 19122",61,Japanese Restaurant
+2558,Frankford & Belgrade,Bottle Bar East,39.97051769303767,-75.13462573962506,"1308 Frankford Ave (at Thompson St), Philadelphia, PA 19125",159,Bar
+2560,"39th & Mt. Vernon, Mantua Haverford Community Center",Quality Taste Jamaican Restaurant & Jerk Hut,39.96309900792833,-75.20271181699856,"4002 Lancaster Ave, Philadelphia, PA 19104",277,Caribbean Restaurant
+2562,"39th & Mt. Vernon, Mantua Haverford Community Center",Golden Tea House,39.9605610414915,-75.20194542692583,"40th and Baring, Philadelphia, PA 19104",437,Piano Bar
+2564,"39th & Mt. Vernon, Mantua Haverford Community Center",Jollie's West,39.96020674442674,-75.19719146840866,"3800 Lancaster Ave (at 38th St), Philadelphia, PA 19104",484,Hookah Bar
+2568,"39th & Mt. Vernon, Mantua Haverford Community Center",Green Line Powelton Village,39.95933659577614,-75.1949809788369,"3649 Lancaster Ave (at 37th St & Powelton Ave), Philadelphia, PA 19104",667,Coffee Shop
+2570,9th & Arch,Bubblefish,39.95345457284423,-75.15515705141259,"909 Arch St, Philadelphia, PA 19107",73,Sushi Restaurant
+2571,9th & Arch,EMei Restaurant,39.953607844040114,-75.15543428390275,"915 Arch St, Philadelphia, PA 19107",99,Chinese Restaurant
+2572,9th & Arch,Oishii Poke,39.95325279099334,-75.1561913482706,"938 Arch St, Philadelphia, PA 19107",161,Poke Restaurant
+2573,9th & Arch,QT Vietnamese Sandwich,39.95319482483924,-75.156397939643,"48 N 10th St (btw Arch St & Filbert St), Philadelphia, PA 19107",180,Vietnamese Restaurant
+2575,9th & Arch,Spice C Hand Drawn Noodle House,39.95439581127642,-75.15605049337238,"131 N 10th St, Philadelphia, PA 19107",185,Chinese Restaurant
+2576,9th & Arch,Penang Malaysian Cuisine,39.95409244667953,-75.15619877889196,"117 N 10th St (btwn Arch & Cherry St), Philadelphia, PA 19107",179,Malay Restaurant
+2579,9th & Arch,Ting Wong,39.95474572169273,-75.15603030152103,"138 N 10th St (at Arch St), Philadelphia, PA 19107",209,Chinese Restaurant
+2580,9th & Locust,Sweetgreen,39.94832076167723,-75.15701806486913,"924 Walnut St (at 10th St), Philadelphia, PA 19107",111,Salad Restaurant
+2583,9th & Locust,Kanella,39.94626186730036,-75.15794330039307,"1001 Spruce St, Philadelphia, PA 19107",144,Greek Restaurant
+2586,9th & Locust,Strangelove's,39.94810652500849,-75.15921114232788,"216 S 11th St (btwn Walnut St & Locust St), Philadelphia, PA 19107",211,Sports Bar
+2594,10th & Oxford,Chipotle Mexican Grill,39.97941177238066,-75.15316936775942,"1100 W Montgomery Ave (at N 11th St), Philadelphia, PA 19122",388,Mexican Restaurant
+2595,10th & Oxford,Chick-fil-A,39.97920011096698,-75.15499234199524,"1755 N 13th St, Philadelphia, PA 19122",465,Fast Food Restaurant
+2596,10th & Oxford,Honeygrow,39.97742972464794,-75.15751755550048,"1601 N Broad St (Cecil B Moore Ave), Philadelphia, PA 19122",567,Salad Restaurant
+2608,22nd & Lehigh,On The Rocks,39.99714065547814,-75.16540324044244,"21st and Somerset St, Philadelphia, PA 19132",216,Bar
+2613,Free Library of Philadelphia - Central Library,Gyu-Kaku Japanese BBQ,39.96072762984046,-75.17020957431274,"1901 Callowhill St, Philadelphia, PA 19130",166,Japanese Restaurant
+2616,Free Library of Philadelphia - Central Library,Buena Onda,39.96079412914127,-75.17086170326931,"1901 Callowhill St (at 20th St), Philadelphia, PA 19130",178,Mexican Restaurant
+2617,Free Library of Philadelphia - Central Library,Doma Japanese Restaurant,39.96052071525839,-75.16919632546524,"1822 Callowhill St, Philadelphia, PA 19130",174,Sushi Restaurant
+2621,29th & Dauphin,Mom's Seafood,39.991391,-75.180044,"2312 N 29th St, Philadelphia, PA 19132",33,Seafood Restaurant
+2626,29th & Dauphin,My Bed,39.99158630645454,-75.18255781733248,"At Home, Philadelphia, PA 19132",243,Bar
+2627,29th & Dauphin,Panda,39.99266281603961,-75.18198770777738,"3024 W York St, Philadelphia, PA 19132",251,Chinese Restaurant
+2629,29th & Dauphin,Assassins Motorcycle Club,39.99036035921324,-75.17637411394517,"Philadelphia, PA",301,Sports Bar
+2637,29th & Tasker,Korea Taqueria,39.934205927262866,-75.19615718950621,"3101 Tasker St (S 31st St), Philadelphia, PA 19145",260,Korean Restaurant
+2639,29th & Tasker,Twin dragon,39.93439816406175,-75.18967876679093,"27th & dickinson, Philadelphia, PA 19146",310,Chinese Restaurant
+2640,40th & Spruce,Copabanana,39.9516077742134,-75.20315443407293,"4000 Spruce St (at 40th St), Philadelphia, PA 19104",65,Mexican Restaurant
+2643,40th & Spruce,HipCityVeg,39.95354777130988,-75.2026360924769,"214 S 40th St, Philadelphia, PA 19104",155,Vegan and Vegetarian Restaurant
+2647,40th & Spruce,Panera Bread,39.95394888650906,-75.20285076195775,"200 S 40th St, Philadelphia, PA 19104",195,Coffee Shop
+2649,40th & Spruce,Greek Lady,39.953278523065855,-75.20266610072558,"222 S 40th St (btwn Locust & Walnut), Philadelphia, PA 19104",125,Greek Restaurant
+2662,11th & Market ,Honeygrow,39.950876736160026,-75.15823287895564,"15 S 11th St, Philadelphia, PA 19107",105,Salad Restaurant
+2670,17th & Locust,Bluestone Lane,39.94897046841233,-75.16956977088739,"1701 Locust St (at S 17th St), Philadelphia, PA 19103",20,Café
+2671,17th & Locust,Via Locusta,39.9489379,-75.1702705,"1723 Locust St, Philadelphia, PA 19103",42,Italian Restaurant
+2672,17th & Locust,Parc,39.949067,-75.170776,"227 S 18th St (at Locust St), Philadelphia, PA 19103",87,French Restaurant
+2674,17th & Locust,Spice Finch,39.9492472507352,-75.16906783720802,"220 S 17th St (at Chancellor St), Philadelphia, PA 19103",73,Mediterranean Restaurant
+2677,17th & Locust,Tequilas,39.94855143126962,-75.16791786924912,"1602 Locust St (at 16th St), Philadelphia, PA 19103",162,Mexican Restaurant
+2680,Broad & Federal,Restaurant Taqueria El Jarocho,39.93648228480978,-75.16484109459253,"1138 S 13th St (at Ellsworth St.), Philadelphia, PA 19147",222,Mexican Restaurant
+2681,Broad & Federal,ReAnimator Coffee,39.934027,-75.16597,"1248 S Clarion St (Wharton St), Philadelphia, PA 19147",189,Coffee Shop
+2687,Broad & Federal,Sky Cafe,39.93701234513389,-75.16293716036692,"1122-38 Washington Ave, Philadelphia, PA 19147",393,Indonesian Restaurant
+2688,Broad & Federal,Pho 75,39.9372143987388,-75.16278704877544,"1122 Washington Ave (btwn 11th St & 12th St), Philadelphia, PA 19147",415,Vietnamese Restaurant
+2689,Broad & Federal,The Victor Cafe,39.93163268258334,-75.1663265045386,"1303 Dickinson St, Philadelphia, PA 19147",433,Italian Restaurant
+2691,27th & South,Callahan's Grille,39.94611366054649,-75.18385532234286,"2615 South St, Philadelphia, PA 19146",78,Dive Bar
+2693,27th & South,Rowhome Coffee,39.947607383121884,-75.18253248026421,"2536 Pine St, Philadelphia, PA 19103",263,Coffee Shop
+2694,27th & South,Rival Bros Coffee,39.94653993759493,-75.18068102034958,"2400 Lombard St (at S 24th St), Philadelphia, PA 19146",352,Coffee Shop
+2701,"3rd & Wildey, Liberty Lands Park",Baan Thai,39.96718594081968,-75.1411644949396,"1030 N American St, Philadelphia, PA 19123",130,Thai Restaurant
+2702,"3rd & Wildey, Liberty Lands Park",Poke Bowl,39.96565635888703,-75.14059436553752,"958 N 2nd St, Philadelphia, PA 19123",157,Poke Restaurant
+2703,"3rd & Wildey, Liberty Lands Park",Apricot Stone,39.967402573897,-75.14109220678496,"426 W Girard Ave (btwn W George St & W Wildey St), Philadelphia, PA 19123",152,Mediterranean Restaurant
+2704,"3rd & Wildey, Liberty Lands Park",One Shot Cafe,39.967631,-75.1407,"217 W George St (at American St), Philadelphia, PA 19123",193,Café
+2706,"3rd & Wildey, Liberty Lands Park",Cantina Dos Segundos,39.96487049573255,-75.1405111980139,"931 N 2nd St, Philadelphia, PA 19123",218,Mexican Restaurant
+2715,19th & Oregon,McCusker's Tavern,39.91856731912533,-75.17576779233993,"2601 S 17th St, Philadelphia, PA 19145",332,Dive Bar
+2718,19th & Oregon,China House No.5,39.918608401248896,-75.18316139034425,"2123 W Oregon Ave, Philadelphia, PA 19145",310,Chinese Restaurant
+2726,American & Oxford,Reanimator Coffee,39.97244167095113,-75.14115157563333,"310 W Master St (at Germantown Ave), Philadelphia, PA 19122",301,Café
+2728,American & Oxford,Que Chula Es Puebla,39.972368,-75.139082,"1356 N 2nd St (at Master St), Philadelphia, PA 19122",306,Mexican Restaurant
+2733,44th & Haverford,Kaffa Crossing,39.95686570269632,-75.21052270723752,"4421 Chestnut St, Philadelphia, PA 19104",665,Ethiopian Restaurant
+2734,44th & Haverford,Kilimandjaro,39.95676607480428,-75.2089249938346,"4301 Chestnut St (btwn S 44th & S 43rd St), Philadelphia, PA 19104",712,African Restaurant
+2739,44th & Haverford,Quality Taste Jamaican Restaurant & Jerk Hut,39.96309900792833,-75.20271181699856,"4002 Lancaster Ave, Philadelphia, PA 19104",779,Caribbean Restaurant
+2741,"26th & Moore, Vare Recreation Center",Bailey's,39.934227087676476,-75.18855012583279,"1524 S Bailey St, Philadelphia, PA 19146",391,Bar
+2756,23rd & Market,Erawan Thai Cuisine,39.95175967423992,-75.17835023927651,"123 S 23rd St (btw Sansom & Walnut), Philadelphia, PA 19103",283,Thai Restaurant
+2757,23rd & Market,Vic Sushi Bar,39.95147676145491,-75.17494806114004,"2035 Sansom St, Philadelphia, PA 19103",382,Sushi Restaurant
+2758,23rd & Market,JJ Thai Cuisine,39.95207282040172,-75.17473535565695,"2028 Chestnut St, Philadelphia, PA 19103",344,Thai Restaurant
