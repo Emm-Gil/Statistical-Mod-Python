@@ -1,215 +1,208 @@
 ,station_name,poi_count,num_bikes
-0,10th & Chestnut,1,4
-1,10th & Federal,4,8
-2,10th & Nevada,1,7
-3,10th & Oregon,3,8
-4,"11th & Pine, Kahn Park",2,3
-5,11th & Reed,3,7
-6,11th & Washington,6,11
-7,11th & Wood,1,4
-8,12th & Callowhill,3,1
-9,12th & Cambria,2,3
-10,12th & Chestnut,6,6
-11,12th & Fairmount,2,2
-12,12th & Filbert,2,9
-13,12th & Normandy,1,4
-14,12th & Passyunk,4,14
-15,12th & Walnut,4,6
-16,13th & Locust,7,1
-17,13th & Mifflin,4,13
-18,13th & Montgomery,5,0
-19,13th & Spruce,5,1
-20,"15th & Castle, DiSilvestro Playground",6,12
-21,15th & Kitty Hawk,1,1
-22,15th & South,2,6
-23,15th & Spruce,2,9
-24,16th & Chestnut,2,7
-25,16th & Montgomery,1,3
-26,16th & Wolf,6,4
-27,17th & Girard,1,6
-28,17th & Green,3,4
-29,17th & JFK,4,1
-30,17th & Locust,6,17
-31,17th & Sansom,4,7
-32,18th & Christian,3,4
-33,"18th & Fernon, Aquinas Center",1,12
-34,18th & JFK,1,9
-35,18th & Walnut,7,11
-36,"18th & Washington, Chew Playground",1,16
-37,"19th & Girard, PTTI",2,2
-38,19th & Lombard,3,7
-39,19th & Market,3,2
-40,19th & Oregon,2,2
-41,20th & Cuthbert,3,3
-42,20th & Fairmount,2,6
-43,20th & Race,2,4
-44,20th & Sansom,5,13
-45,21st & Washington,6,14
-46,22nd & Cecil B. Moore,2,0
-47,22nd & Lehigh,1,9
-48,22nd & Sedgley,1,2
-49,23rd & Chestnut,4,1
-50,23rd & Fairmount,2,7
-51,23rd & Master,2,4
-52,23rd & South,3,9
-53,24th & Christian,1,7
-54,24th & Jackson,1,5
-55,24th & Pennsylvania ,3,6
-56,24th & Race SRT,1,9
-57,24th & Sansom,2,5
-58,25th & Locust,1,8
-59,25th & Wharton,2,7
-60,"26th & Moore, Vare Recreation Center",1,8
-61,26th & Poplar,1,3
-62,27th & Clearfield,1,1
-63,27th & Girard,1,4
-64,27th & Pennsylvania,2,6
-65,27th & South,2,1
-66,28th & Lehigh,1,5
-67,29th & Dauphin,4,6
-68,29th & Tasker,1,8
-69,2nd & Brown,1,10
-70,2nd & Lombard,4,7
-71,2nd & Norris,1,2
-72,2nd & Snyder,2,6
-73,30th & Oakford,1,2
-74,30th Street Station East,2,17
-75,31st & Girard,3,1
-76,32nd & Allegheny,2,3
-77,"32nd & Baring, Drexel Park",2,4
-78,33rd & Market,1,2
-79,33rd & Reservoir,1,5
-80,34th & Arch,1,3
-81,34th & Chestnut,5,2
-82,36th & Filbert,2,3
-83,36th & Sansom,4,3
-84,38th & Market,2,7
-85,38th & Spruce,2,0
-86,"39th & Mt. Vernon, Mantua Haverford Community Center",2,1
-87,3rd & Girard,5,21
-88,"3rd & Wildey, Liberty Lands Park",2,13
-89,40th & Spruce,4,0
-90,41st & Chestnut,5,2
-91,42nd & Lancaster,1,3
-92,42nd & Woodland,3,2
-93,"43rd & Chester, Clark Park",1,3
-94,43rd & Powelton,2,3
-95,44th & Haverford,2,1
-96,44th & Walnut,4,6
-97,45th & Baltimore,4,5
+0,10th & Federal,6,8
+1,10th & Nevada,1,7
+2,10th & Oregon,3,8
+3,10th & Oxford,3,9
+4,11th & Market ,1,14
+5,"11th & Pine, Kahn Park",2,3
+6,11th & Reed,1,7
+7,11th & South,1,12
+8,11th & Washington,4,11
+9,11th & Wood,1,4
+10,12th & Callowhill,3,1
+11,12th & Cambria,3,3
+12,12th & Chestnut,6,6
+13,12th & Filbert,2,9
+14,12th & Normandy,3,4
+15,12th & Passyunk,6,14
+16,12th & Walnut,4,6
+17,13th & Locust,7,1
+18,13th & Mifflin,5,13
+19,13th & Montgomery,3,0
+20,13th & Spruce,5,1
+21,"15th & Castle, DiSilvestro Playground",6,12
+22,15th & Kitty Hawk,1,1
+23,15th & South,7,6
+24,15th & Spruce,2,9
+25,16th & Arch,1,3
+26,16th & Chestnut,2,7
+27,16th & Montgomery,3,3
+28,16th & Wolf,2,4
+29,17th & Girard,1,6
+30,17th & JFK,2,1
+31,17th & Locust,5,17
+32,17th & Pine,4,20
+33,17th & Sansom,6,7
+34,17th & Spring Garden,1,3
+35,18th & Chestnut,4,3
+36,18th & Christian,2,4
+37,"18th & Fernon, Aquinas Center",1,12
+38,18th & JFK Curbside,3,12
+39,18th & Walnut,3,11
+40,"18th & Washington, Chew Playground",1,16
+41,"19th & Girard, PTTI",2,2
+42,19th & Lombard,1,7
+43,19th & Market,2,2
+44,19th & Oregon,2,2
+45,20th & Cuthbert,1,3
+46,20th & Fairmount,2,6
+47,20th & Market,2,0
+48,20th & Race,2,4
+49,20th & Sansom,1,13
+50,22nd & Cecil B. Moore,2,0
+51,22nd & Federal,1,6
+52,22nd & Lehigh,1,9
+53,22nd & Sedgley,1,2
+54,23rd & Fairmount,4,7
+55,23rd & Market,3,5
+56,23rd & South,1,9
+57,24th & Christian,4,7
+58,24th & Jackson,1,5
+59,24th & Race SRT,1,9
+60,24th & Sansom,4,5
+61,25th & Locust,1,8
+62,25th & Wharton,1,7
+63,"26th & Moore, Vare Recreation Center",1,8
+64,26th & Poplar,4,3
+65,27th & Clearfield,1,1
+66,27th & Girard,2,4
+67,27th & Pennsylvania,2,6
+68,27th & South,3,1
+69,28th & Lehigh,1,5
+70,29th & Dauphin,4,6
+71,29th & Tasker,2,8
+72,2nd & Brown,3,10
+73,2nd & George,1,4
+74,2nd & Lombard,6,7
+75,2nd & Race,4,13
+76,2nd & Snyder,2,6
+77,30th & Oakford,1,2
+78,32nd & Allegheny,2,3
+79,"32nd & Baring, Drexel Park",2,4
+80,33rd & Market,1,2
+81,33rd & Reservoir,1,5
+82,34th & Arch,2,3
+83,34th & Chestnut,3,2
+84,34th & Spruce,2,4
+85,36th & Sansom,4,3
+86,38th & Market,2,7
+87,38th & Spruce,2,0
+88,"39th & Mt. Vernon, Mantua Haverford Community Center",4,1
+89,3rd & Girard,2,21
+90,"3rd & Wildey, Liberty Lands Park",5,13
+91,40th & Spruce,4,0
+92,41st & Chestnut,7,2
+93,42nd & Lancaster,1,3
+94,42nd & Woodland,3,2
+95,"43rd & Chester, Clark Park",1,3
+96,44th & Walnut,6,6
+97,45th & Baltimore,3,5
 98,"46th Street Station, MFL",1,8
-99,48th & Baltimore,2,9
-100,48th & Spruce,3,10
-101,49th & Chester,2,2
-102,4th & Arch,2,0
-103,4th & Bainbridge,5,4
-104,4th & Christian,2,14
-105,4th & Oregon,1,8
-106,"4th & Walnut, NPS",2,7
-107,4th & Washington,3,15
-108,4th & Wood,5,4
-109,50th & Baltimore,1,4
-110,50th & Haverford,2,4
-111,50th & Woodland,1,12
-112,"51st & Regent, Kingsessing Library",2,4
-113,52nd & Chestnut,1,4
-114,"52nd & Larchwood, Malcolm X Park",2,2
-115,53rd & Baltimore,1,1
-116,54th & Cedar,2,0
-117,54th & Chester,2,3
-118,54th & City Ave,4,6
-119,56th & Chestnut,3,0
-120,57th & Westminster ,3,1
-121,58th & Spruce,2,2
-122,5th & Spring Garden,1,7
-123,5th & Willow,1,5
-124,5th & Wolf,2,10
-125,"63rd St Station, MFL",3,10
-126,6th & Berks,3,5
-127,6th & Chestnut,3,6
-128,6th & Master,2,3
-129,6th & Race,2,1
-130,7th & Dickinson,3,12
-131,7th & Fitzwater,7,15
-132,7th & Passyunk,5,11
-133,"7th & Race, Franklin Square",4,4
-134,7th & South,1,3
-135,8th & Brown,3,0
-136,8th & Chestnut,1,1
-137,"8th & Mifflin, Bok Building",4,5
-138,8th & Spruce,1,2
-139,9th & Arch,5,2
-140,9th & Locust,2,1
-141,9th & Lombard,3,4
-142,9th & Race,1,3
-143,9th & Spring Garden,1,2
-144,Allegheny & Richmond,3,8
-145,American & Berks,1,6
-146,American & Oxford,1,9
-147,Amtrak 30th Street Station,1,5
-148,Barnes Foundation,4,2
-149,"Berks Station, MFL",4,10
-150,Broad & Allegheny,3,3
-151,Broad & Carpenter,1,4
-152,Broad & Cecil B. Moore,1,3
-153,Broad & Cherry,2,4
-154,Broad & Chestnut,4,5
-155,Broad & Christian,3,3
-156,Broad & Diamond,2,5
-157,Broad & Erie ,3,1
-158,Broad & Federal,3,5
-159,Broad & Oxford,3,5
-160,Broad & Passyunk ,3,12
-161,"Broad & Pattison, BSL",4,13
-162,Broad & Reed,3,7
-163,Broad & Ritner,4,3
-164,Broad & Snyder,3,12
-165,Cedar & Norris,6,10
-166,Cobbs Creek & Florence,4,2
-167,Crescent Park,2,1
-168,Cresson & Levering,5,7
-169,Darien & Catharine,6,17
-170,Del. River Trail & Penn St.,2,2
-171,Dornsife Center,3,5
-172,Fairmount & Ridge,2,6
-173,Fitzwater & Juniper,6,3
-174,Frankford & Belgrade,6,17
-175,Free Library of Philadelphia - Central Library,1,2
-176,Front & Carpenter,2,5
-177,Front & Queen,4,7
-178,Germantown & Huntingdon,2,4
-179,Girard & Palmer,3,11
-180,"Girard Station, MFL",6,12
-181,Health Sciences Drive,1,7
-182,Huntingdon & Collins,2,4
-183,"Independence Mall, NPS",1,3
-184,Lindbergh & Wheeler,1,3
-185,Main & Shurs,7,9
-186,Manayunk Bridge,3,15
-187,Moyamensing & Ritner,3,3
-188,Moyamensing & Tasker,7,35
-189,Oxford & Glenwood,1,1
-190,ParkWest Town Center,1,8
-191,Pencoyd Bridge,2,2
-192,Penn Treaty Park,2,7
-193,"Pennsylvania & Fairmount, Perelman Building",1,9
-194,Pennsylvania Convention Center,1,0
-195,Point Breeze & Tasker,1,3
-196,Powelton & Lancaster,3,3
-197,Race Street Pier,1,11
-198,Ridge & Ferry,2,6
-199,Ridge & Heritage,2,11
-200,"Ridge & Pensdale, Kendrick Recreation Center",1,8
-201,Rodin Museum,4,9
-202,Schuylkill & Wharton,2,2
-203,"Spring Garden Station, BSL",1,10
-204,"Spring Garden Station, MFL",4,10
-205,Temple University Station,1,7
-206,The Children's Hospital of Philadelphia (CHOP),2,4
-207,Thompson & Franklin,2,4
-208,University City Station,1,5
-209,Walnut & Rittenhouse,4,8
-210,Water & Mifflin,1,9
-211,"Welcome Park, NPS",7,12
-212,York & Aramingo,1,10
-213,"York-Dauphin Station, MFL",4,12
+99,48th & Baltimore,4,9
+100,48th & Spruce,5,10
+101,4th & Arch,3,0
+102,4th & Bainbridge,5,4
+103,4th & Christian,2,14
+104,4th & Oregon,1,8
+105,"4th & Walnut, NPS",2,7
+106,4th & Washington,4,15
+107,50th & Haverford,2,4
+108,50th & Woodland,1,12
+109,"51st & Regent, Kingsessing Library",1,4
+110,52nd & Chestnut,3,4
+111,"52nd & Larchwood, Malcolm X Park",4,2
+112,54th & Chester,2,3
+113,54th & City Ave,4,6
+114,56th & Chestnut,2,0
+115,57th & Westminster ,3,1
+116,58th & Spruce,2,2
+117,5th & Spring Garden,1,7
+118,5th & Willow,2,5
+119,5th & Wolf,2,10
+120,"63rd St Station, MFL",3,10
+121,6th & Berks,3,5
+122,6th & Brown,1,4
+123,6th & Girard,1,5
+124,6th & Master,2,3
+125,6th & Race,3,1
+126,7th & Dickinson,3,12
+127,7th & Fitzwater,7,15
+128,7th & Passyunk,4,11
+129,7th & South,1,3
+130,8th & Chestnut,1,1
+131,"8th & Mifflin, Bok Building",4,5
+132,8th & Spruce,6,2
+133,9th & Arch,7,2
+134,9th & Locust,1,1
+135,9th & Race,2,3
+136,9th & Spring Garden,4,2
+137,Allegheny & Richmond,3,8
+138,American & Berks,2,6
+139,American & Oxford,2,9
+140,Amtrak 30th Street Station,3,5
+141,Barnes Foundation,2,2
+142,"Berks Station, MFL",3,10
+143,Broad & Allegheny,3,3
+144,Broad & Carpenter,1,4
+145,Broad & Cecil B. Moore,1,3
+146,Broad & Cherry,2,4
+147,Broad & Chestnut,1,5
+148,Broad & Christian,4,3
+149,Broad & Diamond,2,5
+150,Broad & Erie ,3,1
+151,Broad & Federal,3,5
+152,Broad & Oregon,5,5
+153,Broad & Passyunk ,2,12
+154,"Broad & Pattison, BSL",4,13
+155,Broad & Reed,5,7
+156,Broad & Ritner,2,3
+157,Broad & Snyder,3,12
+158,Cedar & Norris,1,10
+159,City Hall South,1,3
+160,Cobbs Creek & Florence,4,2
+161,Cresson & Levering,2,7
+162,Darien & Catharine,6,17
+163,Fairmount & Ridge,4,6
+164,Foglietta Plaza,1,23
+165,Frankford & Belgrade,6,17
+166,Free Library of Philadelphia - Central Library,3,2
+167,Front & Carpenter,2,5
+168,Front & Queen,4,7
+169,Germantown & Huntingdon,1,4
+170,Girard & Palmer,2,11
+171,"Girard Station, MFL",4,12
+172,Grays Ferry & Pemberton,1,9
+173,Huntingdon & Collins,2,4
+174,Lindbergh & Wheeler,1,3
+175,Main & Shurs,6,9
+176,Manayunk Bridge,6,15
+177,Moyamensing & Ritner,3,3
+178,Moyamensing & Tasker,7,35
+179,Oxford & Glenwood,2,1
+180,ParkWest Town Center,1,8
+181,Pencoyd Bridge,3,2
+182,Penn Treaty Park,4,7
+183,"Pennsylvania & Fairmount, Perelman Building",2,9
+184,Pennsylvania Convention Center,1,0
+185,Point Breeze & Tasker,2,3
+186,Powelton & Lancaster,1,3
+187,Race Street Pier,1,11
+188,Ridge & Ferry,2,6
+189,Ridge & Heritage,2,11
+190,"Ridge & Pensdale, Kendrick Recreation Center",1,8
+191,Rodin Museum,4,9
+192,Saunders & Pearl,4,3
+193,Schuylkill & Wharton,3,2
+194,"Spring Garden Station, BSL",2,10
+195,"Spring Garden Station, MFL",4,10
+196,Temple University Station,1,7
+197,The Children's Hospital of Philadelphia (CHOP),3,4
+198,Thompson & Franklin,2,4
+199,University City Station,1,5
+200,Walnut & Rittenhouse,7,8
+201,Water & Mifflin,1,9
+202,"Welcome Park, NPS",4,12
+203,York & Aramingo,1,10
+204,York & Gaul,4,5
+205,York & Trenton,3,4
+206,"York-Dauphin Station, MFL",2,12
