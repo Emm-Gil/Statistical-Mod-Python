@@ -61,8 +61,8 @@ The project provided an opportunity to further develop Python, SQL and API skill
     - Pandas
     - NumPy
     - statsmodels
-    - Seaborne
-    - Matplot Lib
+    - Seaborn
+    - Matplotlib
 - SQLite
 - Jupyter Notebook
 - Git & GitHub
