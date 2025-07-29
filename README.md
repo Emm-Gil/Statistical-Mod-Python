@@ -10,14 +10,16 @@ The project provided an opportunity to further develop Python, SQL and API skill
 
 ## Process
 
-### 1. Set Up (`city_bikes.ipynb`, `yelp_foursquare_eda.ipynb`, `joining_data.ipynb`)
+### 1. Set Up 
+`city_bikes.ipynb`, `yelp_foursquare_eda.ipynb`, `joining_data.ipynb`
 
 - Retrieved Philadelphia bike station data via CityBikes API
 - Collected POI data from FourSquare and Yelp APIs using station coordinates
 - Stored raw and cleaned versions of datasets as `.csv` files in a working data folder
 - Set up a local SQLite database to assist in data validation
   
-### 2. Data Cleaning (`yelp_foursquare_eda.ipynb`, `joining_data.ipynb`)
+### 2. Data Cleaning 
+`yelp_foursquare_eda.ipynb`, `joining_data.ipynb`
 
 - Removed unnecessary columns like redundant index fields
 - Standardized naming conventions across datasets
@@ -25,7 +27,8 @@ The project provided an opportunity to further develop Python, SQL and API skill
 - Dropped duplicate POIs based on name and location to avoid data skew
 - Filtered raw data to idenitfy only POIs related to the food and beverage industry
 
-### 3. Data Merging (`joining_data.ipynb`)
+### 3. Data Merging 
+`joining_data.ipynb`
 
 - Merged cleaned POI data with bike station data on station name
 - Ensured Yelp data was prioritized where available, due to its completeness
@@ -33,14 +36,16 @@ The project provided an opportunity to further develop Python, SQL and API skill
 - Exported the final merged dataset as `combined_all.csv`
 - Used SQL joins to validate data and confirm successful integration of all sources
 
-### 4. Feature Engineering (`model_building.ipynb`)
+### 4. Feature Engineering 
+`model_building.ipynb`
 
 - Created a summary table of each station’s POI count and number of available bikes
 - Added new variables for:
     - Average Yelp rating per station
     - Total review count per station
 
-### 5. Regression Modeling (`model_building.ipynb`)
+### 5. Regression Modeling 
+`model_building.ipynb`
 
 - Built a linear regression model to predict number of bikes based on:
     - POI count
