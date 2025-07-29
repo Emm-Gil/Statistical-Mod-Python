@@ -5,7 +5,7 @@
 ## Project/Goal
 
 The goal of this project was to explore and quantify the relationship between bike availability and nearby Points of Interest (POIs) in Philadelphia 🦅 **Go Birds** 🦅
-The project provided an opportunity to further develop Python, SQL and API skills, and to build a foundational linear regression model using statsmodels.
+The project provided an opportunity to further develop Python, SQL and API skills, and to build a linear regression model using statsmodels.
 
 
 ## Process
